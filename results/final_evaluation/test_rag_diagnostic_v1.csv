@@ -1,0 +1,301 @@
+test_id,top1_score,mean_top3_score,min_top3_score,top1_document,B,C,delta_C_vs_B,rag_effect
+0,0.6883648633956909,0.6869145830472311,0.6846963167190552,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+1,0.6683180332183838,0.6673917174339294,0.666242241859436,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,0.0,-1.0,ухудшилось
+2,0.6892064809799194,0.6829849481582642,0.6738021373748779,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,0.0,1.0,1.0,улучшилось
+3,0.6280590295791626,0.6216078003247579,0.6091858148574829,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+4,0.6189346313476562,0.6129725774129232,0.606939435005188,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+5,0.6669216156005859,0.6617544889450073,0.6556899547576904,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+6,0.6337041854858398,0.6307908097902933,0.6286167502403259,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+7,0.6133090257644653,0.5951743920644125,0.585917592048645,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+8,0.6317587494850159,0.6203511357307434,0.6145092844963074,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,1.0,0.0,без изменений
+9,0.6138468980789185,0.6116274197896322,0.6097555160522461,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+10,0.6682249903678894,0.6572598814964294,0.6506060361862183,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,1.0,-1.0,ухудшилось
+11,0.6619386672973633,0.6496706008911133,0.639582097530365,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,0.0,-1.0,ухудшилось
+12,0.6953397989273071,0.6868884762128195,0.6806368827819824,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+13,0.5934668183326721,0.5897252758344015,0.5867592096328735,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,0.0,-1.0,ухудшилось
+14,0.6005610823631287,0.5866780479749044,0.5789963006973267,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,2.0,0.0,без изменений
+15,0.6428734064102173,0.6323521733283997,0.6171532869338989,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,1.0,-1.0,ухудшилось
+16,0.6527642011642456,0.6487718224525452,0.6435810327529907,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,0.0,0.0,без изменений
+17,0.6231465935707092,0.6169964075088501,0.6099787950515747,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,0.0,2.0,2.0,улучшилось
+18,0.6494594812393188,0.6390337546666464,0.6305267214775085,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+19,0.6764283180236816,0.6477347413698832,0.6167904138565063,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+20,0.5695698261260986,0.5664563576380411,0.5629528760910034,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+21,0.6320546865463257,0.6179873744646708,0.6094154119491577,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+22,0.6348035931587219,0.6314712961514791,0.6271294951438904,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+23,0.6144586801528931,0.6076503396034241,0.6042072772979736,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+24,0.6234613656997681,0.6169756452242533,0.6090694069862366,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,0.0,0.0,без изменений
+25,0.6852893829345703,0.6711462140083313,0.6631086468696594,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+26,0.6222993731498718,0.6213420430819193,0.6207784414291382,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,0.0,-2.0,ухудшилось
+27,0.6333808898925781,0.6183528502782186,0.6088893413543701,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,1.0,0.0,без изменений
+28,0.6192564964294434,0.6047457257906595,0.5974065661430359,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,1.0,1.0,улучшилось
+29,0.6928628087043762,0.6844518383344015,0.6738561391830444,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,0.0,1.0,1.0,улучшилось
+30,0.6461537480354309,0.6423366268475851,0.6397543549537659,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+31,0.5945874452590942,0.5835294922192892,0.5736114382743835,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,1.0,1.0,улучшилось
+32,0.650138258934021,0.6454443335533142,0.6381129622459412,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,2.0,0.0,без изменений
+33,0.6194379925727844,0.6129746238390604,0.6097402572631836,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,0.0,-1.0,ухудшилось
+34,0.6124082803726196,0.6100073854128519,0.6085382103919983,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,0.0,-1.0,ухудшилось
+35,0.6577730178833008,0.649405280749003,0.6431177854537964,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+36,0.5610759258270264,0.5578585863113403,0.5532933473587036,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+37,0.6361127495765686,0.6334417859713236,0.6317934989929199,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+38,0.6296287775039673,0.6266249418258667,0.6223659515380859,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+39,0.6125733256340027,0.6106170614560446,0.6071784496307373,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,2.0,0.0,без изменений
+40,0.6126630902290344,0.600925087928772,0.593075156211853,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+41,0.6278814673423767,0.6162748138109843,0.6073460578918457,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+42,0.6101044416427612,0.6054719289143881,0.6021631956100464,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,0.0,-1.0,ухудшилось
+43,0.6770790815353394,0.6729602416356405,0.6684772968292236,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,0.0,-1.0,ухудшилось
+44,0.6442081332206726,0.6303026080131531,0.6224179267883301,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,1.0,0.0,без изменений
+45,0.6709856986999512,0.6651546756426493,0.6584174036979675,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+46,0.6200618743896484,0.6100191473960876,0.5974531173706055,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+47,0.6852065920829773,0.6611523826917013,0.6480669975280762,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+48,0.7009168863296509,0.6700889468193054,0.6538475751876831,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+49,0.6167183518409729,0.6096427043279012,0.6036800742149353,Guideline for the pharmacological treatment of hypertension in adults,2.0,1.0,-1.0,ухудшилось
+50,0.5659635066986084,0.5652524828910828,0.5642942190170288,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,1.0,-1.0,ухудшилось
+51,0.600050687789917,0.5987487236658732,0.5974419116973877,Guideline for the pharmacological treatment of hypertension in adults,0.0,1.0,1.0,улучшилось
+52,0.59434974193573,0.5913742582003275,0.5882622003555298,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+53,0.5638352036476135,0.561475396156311,0.5588700771331787,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+54,0.7055512070655823,0.7002152403195699,0.6937016248703003,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,1.0,1.0,улучшилось
+55,0.5937318801879883,0.5889530777931213,0.5843460559844971,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,1.0,-1.0,ухудшилось
+56,0.6127352118492126,0.60381152232488,0.594176173210144,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,0.0,0.0,0.0,без изменений
+57,0.6069341897964478,0.5989670356114706,0.5921525955200195,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,0.0,0.0,без изменений
+58,0.639819860458374,0.6386250853538513,0.6375826597213745,Guideline for the pharmacological treatment of hypertension in adults,2.0,2.0,0.0,без изменений
+59,0.5840077996253967,0.5837425192197164,0.5835099220275879,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+60,0.6559010148048401,0.642477810382843,0.6300531625747681,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+61,0.617584228515625,0.6157990296681722,0.6136040687561035,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+62,0.6728359460830688,0.6634665330251058,0.6539534330368042,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,0.0,-1.0,ухудшилось
+63,0.6093626022338867,0.598612109820048,0.5911735892295837,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+64,0.6004015207290649,0.5978066722551981,0.5957551002502441,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+65,0.5549424886703491,0.5524728894233704,0.5498129725456238,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+66,0.6501560211181641,0.6381529569625854,0.6269063353538513,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+67,0.5867331624031067,0.5839141011238098,0.5824364423751831,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+68,0.6788313984870911,0.6747583746910095,0.6703704595565796,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,1.0,1.0,улучшилось
+69,0.5804947018623352,0.5683849453926086,0.5609531402587891,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,2.0,0.0,без изменений
+70,0.6623874306678772,0.6488562822341919,0.6374148726463318,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+71,0.6278046369552612,0.6131333510080973,0.5982544422149658,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+72,0.5493931174278259,0.546779453754425,0.5437692403793335,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+73,0.6231041550636292,0.6194013953208923,0.6129546761512756,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,2.0,1.0,улучшилось
+74,0.6510852575302124,0.6466689904530843,0.6431145668029785,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+75,0.6713876724243164,0.6669460932413737,0.6642469167709351,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,0.0,-1.0,ухудшилось
+76,0.7018947005271912,0.6639922459920248,0.6438875198364258,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+77,0.6429351568222046,0.6377693812052408,0.6347761154174805,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,1.0,1.0,улучшилось
+78,0.5972113609313965,0.5965493520100912,0.5953437089920044,Guideline for the pharmacological treatment of hypertension in adults,0.0,0.0,0.0,без изменений
+79,0.665696918964386,0.657975455125173,0.6464110612869263,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+80,0.6516749858856201,0.6400495171546936,0.6299521327018738,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+81,0.7288135290145874,0.7179316878318787,0.7107049226760864,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,1.0,1.0,улучшилось
+82,0.6280912756919861,0.6220066547393799,0.6144112348556519,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+83,0.6562824249267578,0.6397396524747213,0.6294175982475281,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+84,0.6798256039619446,0.659251848856608,0.6472172141075134,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,2.0,2.0,улучшилось
+85,0.6722356677055359,0.6628100474675497,0.6579235792160034,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+86,0.5879203677177429,0.578932543595632,0.5699363350868225,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,0.0,-1.0,ухудшилось
+87,0.6553815603256226,0.6475695172945658,0.6415001749992371,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+88,0.6210227012634277,0.6186736027399699,0.6161258220672607,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+89,0.6133401393890381,0.5995504856109619,0.5922625660896301,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+90,0.609961748123169,0.6061980326970419,0.6018586158752441,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+91,0.6699121594429016,0.6665801207224528,0.6624727845191956,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,2.0,0.0,без изменений
+92,0.6884549260139465,0.6786131064097086,0.6735958456993103,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,1.0,0.0,без изменений
+93,0.6203984022140503,0.6121468345324198,0.6077280640602112,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,0.0,-1.0,ухудшилось
+94,0.6611775159835815,0.6380346020062765,0.6236956715583801,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,2.0,2.0,улучшилось
+95,0.6126735210418701,0.5996680855751038,0.5859221816062927,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+96,0.6370641589164734,0.6354199647903442,0.6328578591346741,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+97,0.6503390073776245,0.6430320938428243,0.6364070773124695,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+98,0.6126551628112793,0.5866800944010416,0.5527571439743042,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+99,0.6125990152359009,0.6044569611549377,0.5924661755561829,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,2.0,0.0,-2.0,ухудшилось
+100,0.6412971019744873,0.6249949137369791,0.6114028692245483,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,1.0,-1.0,ухудшилось
+101,0.6545270681381226,0.621036152044932,0.6010729074478149,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+102,0.6162022352218628,0.6099425554275513,0.6008654832839966,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+103,0.6108717918395996,0.6029214064280192,0.5952281951904297,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,0.0,-2.0,ухудшилось
+104,0.6264883875846863,0.622929851214091,0.6165524125099182,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+105,0.6559752225875854,0.6500446796417236,0.6455324292182922,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+106,0.6233069896697998,0.6133138140042623,0.6048790216445923,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+107,0.6589241027832031,0.6292100747426351,0.6105974316596985,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+108,0.6135993003845215,0.6026767293612162,0.5933268070220947,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+109,0.7099128365516663,0.6987404425938925,0.6926663517951965,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+110,0.666431725025177,0.6632085045178732,0.6601492166519165,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+111,0.648727297782898,0.6316092014312744,0.6221683025360107,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+112,0.6097981929779053,0.5869467655817667,0.5727775692939758,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+113,0.6078726649284363,0.6065484682718912,0.6045050024986267,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+114,0.6720163822174072,0.6664047638575236,0.6634095907211304,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+115,0.647247314453125,0.6456737319628397,0.6442679166793823,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+116,0.6091787815093994,0.6020262042681376,0.5918837785720825,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+117,0.6328915953636169,0.6289458473523458,0.6245701313018799,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+118,0.6183333396911621,0.6151729424794515,0.6126573085784912,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+119,0.6464353799819946,0.6452875733375549,0.6442559957504272,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,1.0,0.0,без изменений
+120,0.5987637042999268,0.5944634477297465,0.5910391211509705,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+121,0.5762176513671875,0.5665506521860758,0.5594985485076904,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+122,0.6150784492492676,0.6072213252385458,0.6013435125350952,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+123,0.651731014251709,0.6427017450332642,0.633223295211792,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+124,0.5686643123626709,0.5671388506889343,0.5653762817382812,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+125,0.6165523529052734,0.6134149432182312,0.6101997494697571,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+126,0.6238288879394531,0.6028677026430765,0.5914978981018066,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,2.0,0.0,без изменений
+127,0.6282804012298584,0.6196348667144775,0.6141720414161682,Guideline for the pharmacological treatment of hypertension in adults,1.0,0.0,-1.0,ухудшилось
+128,0.7064942121505737,0.7014966805775961,0.6975998878479004,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+129,0.614203691482544,0.61163862546285,0.6099254488945007,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+130,0.6796482801437378,0.6692735950152079,0.6597093939781189,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+131,0.6996293067932129,0.6921959519386292,0.6881760954856873,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,2.0,0.0,без изменений
+132,0.6499970555305481,0.6425238251686096,0.6378390789031982,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+133,0.5762797594070435,0.5751406749089559,0.5732473134994507,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+134,0.5940933227539062,0.5875297983487447,0.5819616913795471,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+135,0.6092677116394043,0.6067405541737875,0.6021615266799927,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+136,0.6067084074020386,0.6022213896115621,0.5996863842010498,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+137,0.6093565225601196,0.5935843586921692,0.5751633644104004,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+138,0.6515384912490845,0.6432573596636454,0.6300638318061829,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+139,0.6760766506195068,0.6702634493509928,0.6662945747375488,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+140,0.685332179069519,0.6784765919049581,0.6744915843009949,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+141,0.6569123268127441,0.6537829836209615,0.6487595438957214,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+142,0.6730560064315796,0.6591822107632955,0.6506844162940979,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+143,0.6662542819976807,0.6644201874732971,0.6632526516914368,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+144,0.5538216829299927,0.5500567555427551,0.5430244207382202,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+145,0.6366572380065918,0.6316659847895304,0.6276926398277283,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+146,0.6322723627090454,0.6265351374944051,0.6234320402145386,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+147,0.7319612503051758,0.6915491422017416,0.6421521306037903,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,1.0,-1.0,ухудшилось
+148,0.5719548463821411,0.5669218699137369,0.5631741285324097,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+149,0.5843058824539185,0.5786701242129008,0.5710413455963135,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+150,0.6486202478408813,0.6472055713335673,0.6444189548492432,Guideline for the pharmacological treatment of hypertension in adults,1.0,1.0,0.0,без изменений
+151,0.6779032349586487,0.6729923486709595,0.6705297231674194,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+152,0.5861331224441528,0.5829383532206217,0.5800959467887878,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,0.0,-1.0,ухудшилось
+153,0.6132827997207642,0.6054739157358805,0.6008865833282471,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+154,0.5871114134788513,0.5782091418902079,0.5694231986999512,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+155,0.6170273423194885,0.6128156781196594,0.6092479228973389,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+156,0.733917772769928,0.7258052428563436,0.7142742276191711,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+157,0.6598660349845886,0.6534483631451925,0.6483058929443359,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,2.0,1.0,-1.0,ухудшилось
+158,0.6658154726028442,0.6614482800165812,0.655928373336792,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,0.0,0.0,без изменений
+159,0.642927348613739,0.6309110919634501,0.6175609827041626,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,0.0,-2.0,ухудшилось
+160,0.6285219192504883,0.6189858317375183,0.6134887933731079,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+161,0.6370199918746948,0.6239175796508789,0.6136370897293091,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,2.0,2.0,улучшилось
+162,0.659008264541626,0.6553993026415507,0.6520595550537109,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+163,0.6684458255767822,0.6606559356053671,0.6534991264343262,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+164,0.6731040477752686,0.6649601459503174,0.6585090160369873,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,2.0,2.0,0.0,без изменений
+165,0.6491453647613525,0.6327985525131226,0.6234204769134521,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,2.0,0.0,без изменений
+166,0.6382418870925903,0.6318589448928833,0.627884030342102,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+167,0.6188290119171143,0.6044514576594034,0.5899429321289062,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+168,0.6610967516899109,0.6588366031646729,0.6556327939033508,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,1.0,0.0,без изменений
+169,0.630596399307251,0.6282829443613688,0.6252745389938354,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+170,0.6048364639282227,0.5875233213106791,0.5770265460014343,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+171,0.6116783618927002,0.6068599224090576,0.602077305316925,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,1.0,0.0,без изменений
+172,0.6304658651351929,0.6245387593905131,0.62025386095047,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+173,0.6398230791091919,0.6282872358957926,0.6212695240974426,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+174,0.6500262022018433,0.647564152876536,0.6441589593887329,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+175,0.6288530826568604,0.6276953419049581,0.6254853010177612,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+176,0.740270733833313,0.7326823075612386,0.726912260055542,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+177,0.6696096062660217,0.6662116646766663,0.6635491847991943,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+178,0.6761926412582397,0.6736225883165995,0.6712811589241028,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+179,0.5884884595870972,0.5846766233444214,0.5818179249763489,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+180,0.6392294764518738,0.625799298286438,0.616766095161438,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+181,0.6679312586784363,0.6577320098876953,0.6458994150161743,Guideline for the pharmacological treatment of hypertension in adults,2.0,2.0,0.0,без изменений
+182,0.555930495262146,0.5532770752906799,0.5516303181648254,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+183,0.6208624243736267,0.610606054464976,0.6013889312744141,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+184,0.6341902017593384,0.6230610211690267,0.6092198491096497,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+185,0.5745252966880798,0.5608673691749573,0.5469591617584229,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+186,0.6544309854507446,0.6514547268549601,0.6466660499572754,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,0.0,1.0,1.0,улучшилось
+187,0.6654415130615234,0.6584419012069702,0.6499956250190735,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,2.0,1.0,-1.0,ухудшилось
+188,0.664191484451294,0.648072342077891,0.6392154693603516,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,1.0,0.0,без изменений
+189,0.603485107421875,0.5923242767651876,0.5805638432502747,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+190,0.6674442291259766,0.6661908229192098,0.6645238995552063,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,2.0,1.0,улучшилось
+191,0.5510578155517578,0.5370187958081564,0.5274933576583862,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,0.0,-2.0,ухудшилось
+192,0.5786237120628357,0.5720058878262838,0.5685999393463135,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,2.0,0.0,без изменений
+193,0.6644536852836609,0.6552860140800476,0.6498604416847229,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+194,0.637316882610321,0.6354712247848511,0.6330377459526062,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,0.0,0.0,0.0,без изменений
+195,0.6608590483665466,0.65460071961085,0.6435765027999878,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,1.0,0.0,без изменений
+196,0.6630339026451111,0.6566644310951233,0.650454044342041,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,0.0,0.0,0.0,без изменений
+197,0.6552063226699829,0.6436423659324646,0.6312506794929504,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+198,0.6223199367523193,0.6082563797632853,0.5992435216903687,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,0.0,-1.0,ухудшилось
+199,0.5975147485733032,0.5959467093149821,0.5945121049880981,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,2.0,1.0,улучшилось
+200,0.5704196095466614,0.5692353447278341,0.5679275989532471,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,0.0,-2.0,ухудшилось
+201,0.6790469288825989,0.67727130651474,0.674859881401062,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+202,0.7032173871994019,0.696821391582489,0.6935279965400696,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+203,0.628951370716095,0.6248613794644674,0.6224520206451416,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,0.0,-2.0,ухудшилось
+204,0.5883418917655945,0.5849719643592834,0.5807784795761108,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,2.0,0.0,без изменений
+205,0.6605057120323181,0.6334195534388224,0.6191647052764893,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+206,0.5983538627624512,0.5931400656700134,0.5893617868423462,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,2.0,0.0,-2.0,ухудшилось
+207,0.6375351548194885,0.6355745593706766,0.6321185827255249,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+208,0.7117633819580078,0.6982266505559286,0.6885701417922974,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+209,0.6241308450698853,0.62382706006368,0.6232434511184692,Guideline for the pharmacological treatment of hypertension in adults,2.0,1.0,-1.0,ухудшилось
+210,0.6476283073425293,0.6312678853670756,0.6186716556549072,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+211,0.6791849136352539,0.6782977183659872,0.6772946119308472,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+212,0.6470028162002563,0.64480988184611,0.6424456834793091,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,1.0,0.0,без изменений
+213,0.6027787327766418,0.5934444467226664,0.5883140563964844,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+214,0.6161391735076904,0.6131734053293864,0.611146092414856,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+215,0.7074794173240662,0.7021439671516418,0.6989340782165527,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,2.0,0.0,без изменений
+216,0.6149045825004578,0.6076962749163309,0.5999501943588257,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+217,0.6127054691314697,0.6041474938392639,0.5995264053344727,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+218,0.6074261665344238,0.5952021280924479,0.5851483345031738,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+219,0.7068466544151306,0.6963445544242859,0.6885470747947693,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+220,0.6354936957359314,0.6323481599489847,0.6291488409042358,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+221,0.5515360832214355,0.5480941931406657,0.5461844205856323,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,2.0,1.0,улучшилось
+222,0.6770035028457642,0.6699492335319519,0.658676028251648,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+223,0.6894302368164062,0.6856606205304464,0.6793535351753235,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+224,0.6165227890014648,0.6152497132619222,0.6131241321563721,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,1.0,-1.0,ухудшилось
+225,0.6640306711196899,0.6589771310488383,0.650920569896698,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,1.0,0.0,без изменений
+226,0.589557409286499,0.5823370615641276,0.5723428726196289,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+227,0.6284793019294739,0.6185526450475057,0.6112945079803467,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+228,0.6482677459716797,0.6327646772066752,0.620771586894989,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+229,0.6324427127838135,0.6241939067840576,0.6198300123214722,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+230,0.6399284601211548,0.6286503871281942,0.6165392398834229,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+231,0.5864259004592896,0.5800172487894694,0.5737484693527222,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+232,0.6235190033912659,0.6194856762886047,0.6173774600028992,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,0.0,-1.0,ухудшилось
+233,0.6347129344940186,0.6227311690648397,0.612064003944397,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+234,0.6265589594841003,0.6255847215652466,0.625032901763916,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+235,0.5745927095413208,0.5730351209640503,0.5706971883773804,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+236,0.6291289329528809,0.612585445245107,0.6037142872810364,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+237,0.6376962661743164,0.6243328849474589,0.6128506064414978,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+238,0.6780871748924255,0.6715273857116699,0.6665225625038147,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,0.0,-2.0,ухудшилось
+239,0.6438872218132019,0.6276426911354065,0.6174314618110657,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,1.0,0.0,без изменений
+240,0.6283442974090576,0.6209338506062826,0.6170780658721924,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+241,0.6194617748260498,0.616346001625061,0.6135469675064087,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,0.0,1.0,1.0,улучшилось
+242,0.5632004737854004,0.5591286420822144,0.5551413297653198,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,1.0,0.0,без изменений
+243,0.6346737146377563,0.6296520034472147,0.6264596581459045,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+244,0.6144574880599976,0.6077537735303243,0.5969823598861694,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,1.0,0.0,без изменений
+245,0.6022883653640747,0.5997796654701233,0.5952937006950378,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,1.0,0.0,-1.0,ухудшилось
+246,0.6506973505020142,0.6465732653935751,0.6394244432449341,Guideline for the pharmacological treatment of hypertension in adults,1.0,1.0,0.0,без изменений
+247,0.6601088047027588,0.6521725455919901,0.6469717621803284,Guideline for the pharmacological treatment of hypertension in adults,2.0,0.0,-2.0,ухудшилось
+248,0.687859058380127,0.6680516004562378,0.6560226678848267,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+249,0.5998481512069702,0.5790683229764303,0.5681895017623901,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+250,0.6084820628166199,0.5987329284350077,0.5914291143417358,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+251,0.6736365556716919,0.6721517244974772,0.6705098152160645,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+252,0.6434429883956909,0.6415378252665201,0.6401183605194092,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+253,0.6103156805038452,0.6070891817410787,0.6048862338066101,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,0.0,0.0,без изменений
+254,0.6408240795135498,0.6389099359512329,0.6356889009475708,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,0.0,0.0,0.0,без изменений
+255,0.6828063130378723,0.6791515350341797,0.6766279339790344,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,2.0,2.0,улучшилось
+256,0.6662180423736572,0.6526675820350647,0.6437183618545532,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+257,0.6255578994750977,0.6163039008776346,0.6100329756736755,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,0.0,0.0,без изменений
+258,0.6384334564208984,0.6258110006650289,0.618865966796875,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+259,0.6332906484603882,0.6281747420628866,0.6253868937492371,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,2.0,0.0,без изменений
+260,0.6230577230453491,0.6177933812141418,0.613646388053894,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+261,0.6738902926445007,0.6711992224057516,0.6670712232589722,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+262,0.6256331205368042,0.6135969161987305,0.6072911620140076,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+263,0.684765636920929,0.6779487133026123,0.6734047532081604,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+264,0.6455084681510925,0.638961394627889,0.63539057970047,Guideline for the pharmacological treatment of hypertension in adults,0.0,2.0,2.0,улучшилось
+265,0.597212553024292,0.5913071831067404,0.5877489447593689,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+266,0.6575723886489868,0.6553892294565836,0.6528761386871338,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+267,0.610248863697052,0.5975807706514994,0.5897311568260193,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,0.0,-2.0,ухудшилось
+268,0.5502902865409851,0.5369521578152975,0.5285037755966187,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,1.0,-1.0,ухудшилось
+269,0.6319990158081055,0.6283715565999349,0.6224193572998047,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,1.0,0.0,без изменений
+270,0.5449317097663879,0.5410707195599874,0.5365417003631592,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,0.0,-2.0,ухудшилось
+271,0.6130529642105103,0.6063180565834045,0.6014119386672974,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+272,0.6206365823745728,0.612503190835317,0.5990144610404968,VA/DoD Clinical Practice Guideline for the Management of Type 2 Diabetes Mellitus,1.0,1.0,0.0,без изменений
+273,0.6690053939819336,0.6629528005917867,0.6585389971733093,Guideline for the pharmacological treatment of hypertension in adults,2.0,2.0,0.0,без изменений
+274,0.5803923606872559,0.5799042383829752,0.5790413618087769,Guideline for the pharmacological treatment of hypertension in adults,2.0,2.0,0.0,без изменений
+275,0.5924769639968872,0.5819308161735535,0.576065719127655,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,1.0,2.0,1.0,улучшилось
+276,0.6681238412857056,0.6590291261672974,0.650924801826477,Guideline for the pharmacological treatment of hypertension in adults,2.0,2.0,0.0,без изменений
+277,0.5827064514160156,0.5706930160522461,0.5627979636192322,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+278,0.704387903213501,0.6815286874771118,0.6653165817260742,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+279,0.6381785273551941,0.6378034551938375,0.6374368667602539,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,0.0,-2.0,ухудшилось
+280,0.6201959848403931,0.6183927456537882,0.6170601844787598,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+281,0.6534732580184937,0.6528223752975464,0.6518993377685547,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,1.0,1.0,0.0,без изменений
+282,0.6080571413040161,0.603993554910024,0.5976496934890747,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,1.0,-1.0,ухудшилось
+283,0.6297789216041565,0.6196722785631815,0.6145486831665039,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,1.0,0.0,-1.0,ухудшилось
+284,0.702521800994873,0.6976926326751709,0.6923279762268066,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,1.0,1.0,0.0,без изменений
+285,0.6105269193649292,0.5999867916107178,0.5942411422729492,VA/DOD Clinical Practice Guideline for the Primary Care Management of Chronic Kidney Disease,2.0,1.0,-1.0,ухудшилось
+286,0.6626478433609009,0.6513236363728842,0.6442201137542725,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,0.0,-2.0,ухудшилось
+287,0.6732542514801025,0.6625314354896545,0.6539371013641357,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,0.0,2.0,2.0,улучшилось
+288,0.621948778629303,0.608215848604838,0.6008567214012146,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,1.0,-1.0,ухудшилось
+289,0.5881186723709106,0.5876596768697103,0.5869566202163696,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,2.0,0.0,без изменений
+290,0.6046184301376343,0.5873819390932719,0.5702120661735535,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,0.0,-1.0,ухудшилось
+291,0.6848852038383484,0.6662910381952921,0.6561416983604431,VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder,2.0,2.0,0.0,без изменений
+292,0.6134790778160095,0.6078323125839233,0.6011976003646851,"Sexually Transmitted Infections Treatment Guidelines, 2021",2.0,2.0,0.0,без изменений
+293,0.6313024759292603,0.6135377287864685,0.6003481149673462,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,0.0,2.0,2.0,улучшилось
+294,0.5922673940658569,0.5843895276387533,0.5803641080856323,"Sexually Transmitted Infections Treatment Guidelines, 2021",0.0,1.0,1.0,улучшилось
+295,0.5575728416442871,0.5401855309804281,0.5295953750610352,"Sexually Transmitted Infections Treatment Guidelines, 2021",1.0,2.0,1.0,улучшилось
+296,0.6118533611297607,0.6081268191337585,0.6059383749961853,VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma,2.0,1.0,-1.0,ухудшилось
+297,0.6424142718315125,0.634152352809906,0.6218045949935913,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,2.0,0.0,-2.0,ухудшилось
+298,0.6071702241897583,0.6047921975453695,0.6007411479949951,VA/DoD Clinical Practice Guideline for the Diagnosis and Treatment of Low Back Pain,0.0,2.0,2.0,улучшилось
+299,0.6534478664398193,0.6488496859868368,0.6437181234359741,VA/DoD Clinical Practice Guideline for the Management of Pregnancy,2.0,1.0,-1.0,ухудшилось

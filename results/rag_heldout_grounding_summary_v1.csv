@@ -1,0 +1,9 @@
+,value
+n_questions,19.0
+mean_factual_support,1.5789473684210527
+mean_citation_correctness,1.368421052631579
+unsupported_claim_count,4.0
+unsupported_claim_rate,0.21052631578947367
+grounded_rate,0.5263157894736842
+partial_rate,0.3157894736842105
+not_grounded_rate,0.15789473684210525

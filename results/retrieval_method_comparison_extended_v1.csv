@@ -1,0 +1,5 @@
+method,Hit@1,Hit@3,Hit@5,MRR@10,Document_Hit@1
+TF-IDF,0.34,0.596,0.702,0.509,0.936
+BGE dense — NumPy,0.83,0.936,0.936,0.882,1.0
+BGE dense — FAISS,0.83,0.936,0.936,0.882,1.0
+BGE + FAISS + MedCPT,0.489,0.894,0.915,0.671,1.0

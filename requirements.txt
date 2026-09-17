@@ -1,0 +1,23 @@
+# Core ML / LLM
+torch==2.14.0+cu130
+transformers==5.16.1
+accelerate==1.15.0
+peft==0.20.0
+bitsandbytes==0.50.2
+datasets==5.0.1
+
+# Embeddings / retrieval
+sentence-transformers==6.0.1
+faiss-cpu==1.15.0
+
+# Data processing
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.7.2
+pyarrow==25.0.1
+pymupdf==1.28.2
+
+# Utilities / notebooks
+matplotlib==3.10.9
+tqdm==4.70.0
+ipykernel==7.3.0

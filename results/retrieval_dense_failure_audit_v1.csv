@@ -1,0 +1,4 @@
+eval_id,strict_hit_at_5,audit_result,best_answer_bearing_rank,notes
+dev_0005,False,gold_incomplete,2,Rank 2 discusses ruling out manic episode and distinguishing MDD from normal bereavement; rank 5 contains additional clinical assessment considerations; predefined self-help section appears at rank 8.
+t2d_01,False,gold_incomplete,1,"Top-ranked recommendations contain information on glycemic variability, HbA1c and CGM, although gold contained only Appendix B."
+asthma_01,False,gold_incomplete,1,Top-1 chunk is the Assessment and Diagnosis of Asthma algorithm and directly addresses the query.

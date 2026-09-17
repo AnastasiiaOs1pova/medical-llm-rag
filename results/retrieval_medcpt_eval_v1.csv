@@ -1,0 +1,48 @@
+eval_id,question_source,first_relevant_rank,hit_at_1,hit_at_3,hit_at_5,rr_at_10,top1_document_id,top1_section_path,top1_dense_score,top1_medcpt_score
+dev_0005,real_dev,10.0,False,False,False,0.1,va_dod_major_depression_2022,Appendix I: Quick Guide to the Patient Health Questionnaire in Clinical Practice > B. Scoring the PHQ-9 (223),0.6263933181762695,4.732448577880859
+dev_0014,real_dev,2.0,False,True,True,0.5,va_dod_low_back_pain_2022,II. Background > A. Description of Low Back Pain,0.6497842669487,-5.105601787567139
+dev_0029,real_dev,2.0,False,True,True,0.5,va_dod_ckd_2025,II. Background > A. Description of Chronic Kidney Disease,0.7138227224349976,4.362083911895752
+dev_0048,real_dev,2.0,False,True,True,0.5,va_dod_low_back_pain_2022,IX. Recommendations > E. Dietary Supplements,0.6676292419433594,-7.083459854125977
+dev_0078,real_dev,3.0,False,True,True,0.3333333333333333,va_dod_low_back_pain_2022,II. Background > A. Description of Low Back Pain,0.6466420888900757,-4.939042568206787
+dev_0097,real_dev,1.0,True,True,True,1.0,va_dod_asthma_2025,IX. Recommendations > B. Treatment and Management,0.6570001244544983,-5.178646564483643
+dev_0135,real_dev,2.0,False,True,True,0.5,va_dod_asthma_2025,VIII. Algorithm,0.6323649287223816,1.494544506072998
+who_01,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.1 Blood pressure threshold for initiation of pharmacological treatment,0.8208290338516235,16.014881134033203
+who_02,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.2 Laboratory testing before and during pharmacological treatment,0.8360913395881653,15.531643867492676
+who_03,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.4 Drug classes to be used as first-line agents,0.7911750674247742,15.748211860656738
+who_04,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.5 Combination therapy,0.7641502022743225,15.637914657592773
+who_05,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.6 Target blood pressure,0.8280029296875,15.91879653930664
+t2d_01,guideline,,False,False,False,0.0,va_dod_type2_diabetes_2023,IX. Recommendations > C. Diabetes Mellitus,0.7680698037147522,13.97955322265625
+t2d_02,guideline,1.0,True,True,True,1.0,va_dod_type2_diabetes_2023,IX. Recommendations > D. Non-Pharmacotherapy,0.7642693519592285,12.329069137573242
+t2d_03,guideline,3.0,False,True,True,0.3333333333333333,va_dod_type2_diabetes_2023,IV. Highlighted Features of this Guideline > A. Highlights in this Guideline Update,0.7337476015090942,9.956897735595703
+t2d_04,guideline,1.0,True,True,True,1.0,va_dod_type2_diabetes_2023,IX. Recommendations > A. Prediabetes,0.7691934108734131,15.899499893188477
+t2d_05,guideline,4.0,False,False,True,0.25,va_dod_type2_diabetes_2023,IX. Recommendations > C. Diabetes Mellitus,0.7017621994018555,11.66556453704834
+ckd_01,guideline,3.0,False,True,True,0.3333333333333333,va_dod_ckd_2025,II. Background > A. Description of Chronic Kidney Disease,0.701408863067627,11.575236320495605
+ckd_02,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,IX. Recommendations,0.7093548774719238,11.687007904052734
+ckd_03,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,IX. Recommendations,0.7782123684883118,15.541579246520996
+ckd_04,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,Appendix M. Management of Hyperkalemia > C. Management,0.7858507633209229,15.769675254821777
+ckd_05,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,Appendix K. Nephrotoxic Agents and Medication Dose Adjustments in CKD > C. Medication Management in CKD,0.7500903606414795,10.628474235534668
+asthma_01,guideline,,False,False,False,0.0,va_dod_asthma_2025,VIII. Algorithm,0.7344614267349243,14.804672241210938
+asthma_02,guideline,1.0,True,True,True,1.0,va_dod_asthma_2025,II. Background > B. Classification of Asthma Severity and Control,0.7279790639877319,14.808565139770508
+asthma_03,guideline,2.0,False,True,True,0.5,va_dod_asthma_2025,VIII. Algorithm,0.6654185056686401,12.263358116149902
+asthma_04,guideline,1.0,True,True,True,1.0,va_dod_asthma_2025,IX. Recommendations > B. Treatment and Management,0.7237075567245483,10.750251770019531
+asthma_05,guideline,3.0,False,True,True,0.3333333333333333,va_dod_asthma_2025,VIII. Algorithm,0.6928011178970337,12.577557563781738
+lbp_01,guideline,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,IX. Recommendations > A. Evaluation and Diagnostic Approach,0.7491085529327393,12.488407135009766
+lbp_02,guideline,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,IX. Recommendations > B. Patient Education and Self-care,0.739401638507843,12.432928085327148
+lbp_03,guideline,3.0,False,True,True,0.3333333333333333,va_dod_low_back_pain_2022,IX. Recommendations,0.7109857797622681,8.5703706741333
+lbp_04,guideline,2.0,False,True,True,0.5,va_dod_low_back_pain_2022,IX. Recommendations,0.6977429986000061,7.557619094848633
+lbp_05,guideline,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,IX. Recommendations > F. Non-surgical Invasive Therapy,0.7148199081420898,6.661674976348877
+mdd_01,guideline,2.0,False,True,True,0.5,va_dod_major_depression_2022,Appendix I: Quick Guide to the Patient Health Questionnaire in Clinical Practice > D. Example of Using the PHQ-9 in Clinical Practice,0.7127076387405396,12.58288860321045
+mdd_02,guideline,1.0,True,True,True,1.0,va_dod_major_depression_2022,IX. Recommendations > B. Monitoring Outcomes,0.7657598257064819,14.815614700317383
+mdd_03,guideline,3.0,False,True,True,0.3333333333333333,va_dod_major_depression_2022,VIII. Algorithm > A. Module A: Initial Assessment and Treatment,0.7301658391952515,12.310810089111328
+mdd_04,guideline,3.0,False,True,True,0.3333333333333333,va_dod_major_depression_2022,IX. Recommendations,0.7022769451141357,13.255315780639648
+mdd_05,guideline,3.0,False,True,True,0.3333333333333333,va_dod_major_depression_2022,IX. Recommendations,0.6719121932983398,2.766090154647827
+pregnancy_01,guideline,1.0,True,True,True,1.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care > A. Initial Prenatal Visit,0.7548775672912598,15.973556518554688
+pregnancy_02,guideline,1.0,True,True,True,1.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care > B. Subsequent Prenatal Visits,0.7520560026168823,10.46388053894043
+pregnancy_03,guideline,1.0,True,True,True,1.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care > C. Postpartum,0.788153886795044,15.657073020935059
+pregnancy_04,guideline,2.0,False,True,True,0.5,va_dod_pregnancy_2023,X. Routine Pregnancy Care,0.6679039001464844,14.934354782104492
+pregnancy_05,guideline,2.0,False,True,True,0.5,va_dod_pregnancy_2023,X. Routine Pregnancy Care > A. Initial Prenatal Visit,0.7035320997238159,14.733034133911133
+sti_01,guideline,1.0,True,True,True,1.0,cdc_sti_2021,Chlamydial Infections > Chlamydial Infection Among Adolescents and Adults > Treatment,0.8102931380271912,15.66372299194336
+sti_02,guideline,3.0,False,True,True,0.3333333333333333,cdc_sti_2021,"Diseases Characterized by Genital, Anal, or Perianal Ulcers > Genital Herpes > Genital Herpes Management > Recurrent HSV-2 Genital Herpes",0.6855935454368591,15.899930953979492
+sti_03,guideline,6.0,False,False,False,0.16666666666666666,cdc_sti_2021,Diseases Characterized by Urethritis and Cervicitis > Cervicitis > Follow-Up,0.7239223122596741,15.89175796508789
+sti_04,guideline,2.0,False,True,True,0.5,cdc_sti_2021,STI Detection Among Special Populations > Men Who Have Sex with Men > Screening Recommendations > Syphilis,0.7620435953140259,14.707266807556152
+sti_05,guideline,1.0,True,True,True,1.0,cdc_sti_2021,"Diseases Characterized by Vulvovaginal Itching, Burning, Irritation, Odor, or Discharge > Bacterial Vaginosis > Treatment",0.7863996028900146,15.163240432739258

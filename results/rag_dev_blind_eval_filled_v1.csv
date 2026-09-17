@@ -1,0 +1,631 @@
+﻿eval_id,question_source,question,answer_a,answer_b,a_correctness,a_relevance,a_safety,a_completeness,b_correctness,b_relevance,b_safety,b_completeness,winner,evaluation_note
+dev_0005,real_dev,Hi my boyfriend and I have been together for over a year and just recently (about 5 months after his best friends death) he has begun to act strange. Hes temper has become a lot worse and he has a short fuse. He is only 20. He feels so much stress and pressure even when there isnt things to stress about. Hes not himself and admitted that he is feeling depressed lately. His moods switch in an instant. Is there something i can do about it? Does he need medical help for depression or manic depression? Is there something besides medication to help?,"It sounds like your boyfriend is experiencing significant emotional distress following the loss of his friend. His behavior change, including mood swings and irritability, could be signs of depression or other mental health issues. However, without a clinical evaluation, it's difficult to determine the exact cause.
+
+Given his age and the recent loss, it's important to support him through this difficult time. Encourage him to express his feelings and offer a listening ear. Consider suggesting he speak with a mental health professional who can provide guidance and possibly treatment options.
+
+There are non-medication approaches that might help, such as:
+
+- **Counseling**: A therapist can help him process his emotions and develop coping strategies.
+- **Support Groups**: Joining a group where he can share experiences and feel less alone.
+- **Physical Activity**: Regular exercise can improve mood and reduce stress.
+- **Healthy Lifestyle**: Ensuring he gets enough sleep, eats well, and avoids excessive caffeine and alcohol.
+
+If you notice any severe symptoms or signs of worsening, it would be wise to encourage him to seek professional help sooner rather than later. Depression and related conditions can be effectively managed with appropriate care.","Based on the information provided, it seems that your boyfriend may be experiencing symptoms of depression, which is common following significant losses. Here are some considerations:
+
+- He should be screened for depression, as suggested in the guidelines.
+- Depression can manifest in various ways, including mood swings, irritability, and a short temper. These symptoms align with the description of Major Depressive Disorder (MDD).
+- There is no clear indication that he needs to be diagnosed with Manic Depression (Bipolar Disorder) since he does not report a history of manic episodes.
+- He might benefit from a collaborative/integrated care model in primary care settings, as recommended in the guidelines.
+- Besides medication, psychotherapy can be effective in treating depression. Options include cognitive-behavioral therapy (CBT), interpersonal therapy (IPT), and others depending on his specific needs.
+
+It's important to encourage him to seek professional help. Encouraging him to see a healthcare provider can be a supportive step.",2,2,2,2,1,2,2,2,A,A осторожнее и не пытается ставить диагноз; B чрезмерно связывает раздражительность/перепады настроения с MDD и делает вывод о bipolar disorder без очной оценки.
+dev_0014,real_dev,"Hi, I am suffering from lower back pain going to my lower right ribs. Ive undergone blood test, urinary test, whole abdominal ultrasound and even kidney xray but found nothing on it. Also lately i feel thirsty all the time. Is there any other kind of test that I need to undergo in order to determine the cause of this?.","Based on the available guidelines, you should consider undergoing additional diagnostic tests if you have persistent lower back pain accompanied by lower right rib pain and increased thirst. Given that you have already had blood tests, urinary tests, whole abdominal ultrasound, and kidney X-rays, which did not reveal any abnormalities, you might benefit from further evaluations. suggests that a history of trauma with neurological findings on physical examination, a combination of a history of cancer and clinical suspicion of cancer, rapidly progressive severe neurologic deficits, or LBP associated with a serious underlying condition (e.g., malignancy, fracture, infection, cauda equina syndrome [CES]) may necessitate additional diagnostic workup. Since you have experienced lower back pain with lower right rib pain and increased thirst, these symptoms could be indicative of a serious underlying condition. indicates that a score ≥7 on the Roland Morris Disability Questionnaire (RMQ) and the presence of thoracic pain are associated with a high probability of fracture. Additionally, the presence of multiple red flags increases the probability of fracture to between 42% and 90%. Given your symptoms, you might benefit from a RMQ score and a thorough physical examination to assess for red flags.
+
+In addition to imaging studies, mentions that exercise or physical activity interventions have a beneficial effect on Health-Related Quality of Life (HRQoL) in ESKD patients. Therefore, considering your condition, you might also benefit from a referral to a physiotherapist or exercise specialist to assess and implement appropriate physical therapy or exercise-based interventions.
+
+It is important to discuss these possibilities with your healthcare provider to decide on the next steps.","Based on the information provided, further diagnostic testing may be warranted to identify the cause of your lower back pain radiating to your lower right rib and persistent thirst. Given that you have already had blood tests, urinary tests, an abdominal ultrasound, and a kidney X-ray, which did not reveal any abnormalities, additional imaging studies such as a CT scan or MRI might help in identifying soft tissue issues or other potential causes. Additionally, a referral to a specialist, such as a rheumatologist or a gastroenterologist, might be considered if no clear cause is identified. Persistent thirst could also be related to diabetes or another condition, so a fasting blood glucose test might be helpful to rule out diabetes.",1,1,1,1,1,2,1,2,B,"Оба ответа спекулятивны. A смешивает нерелевантные данные и переоценивает риск перелома; B логичнее связывает жажду с необходимостью проверки глюкозы, хотя КТ/МРТ и узкие специалисты предложены слишком широко."
+dev_0029,real_dev,"I have been told that I have stage 5 advanced chronic kidney disease, blood pressure perfect cholesterol perfect.Feel great look great, drs are surprised say that considering my blood work I shoulod be deathly sick but Im not at all. I was told that i need dialysis and transplant...shouldnt I be tested further","Based on the available guidelines, there is no clear evidence to support further testing for CKD beyond the current stage and your overall good health. The guidelines suggest that while CKD can progress silently, especially in advanced stages, the impact of AKI on mortality and CVD is negligible. Since you are asymptomatic and feel well, the risk of CKD progression to a point where it would significantly affect your health is low. Therefore, further testing might not be indicated at this time. However, the decision to start dialysis and consider a transplant should be based on medical judgment and discussions with your healthcare provider.","Given your current condition, it seems unusual that you do not experience symptoms despite having stage 5 chronic kidney disease (CKD). However, without more detailed information such as your estimated glomerular filtration rate (eGFR) and other specific lab values, it's difficult to make definitive conclusions about your case.
+
+Your blood pressure and cholesterol levels being ""perfect"" suggest good control of these risk factors, which is beneficial for CKD patients. The fact that you feel great and look healthy could be due to various factors, including your overall health management and possibly some degree of kidney reserve.
+
+The decision to start dialysis and consider a transplant typically depends on several factors, including your eGFR, symptoms, and overall health status. Since you are asymptomatic and in good physical condition, it might be reasonable to continue monitoring your kidney function closely rather than immediately initiating dialysis.
+
+However, it's important to discuss this with your healthcare provider to tailor a plan that best suits your individual situation. They may recommend regular follow-ups to assess your kidney function and overall health, and decide on the timing of any interventions based on these assessments.",0,1,0,1,1,2,2,1,B,"A содержит опасный вывод, что при stage 5 CKD из-за отсутствия симптомов риск прогрессирования низок и дальнейшее обследование может не требоваться. B корректнее подчёркивает зависимость решения о диализе от функции почек, симптомов и наблюдения."
+dev_0048,real_dev,hi sir iam having a sciatica problem and lumber spine problem for this pain i had taken a electro homeopathy treatment in that doctor had given me a electric shock on my left leg main nerve for 3 times and the pain is gone for few days only after that it came again i had taken  lot of pills but no cure now my doctor suggest me duzella 30 mg so how much its useful for me pls suggest me some good medicine iam fearing tht any side affects will come because my marriage is thier in a month and iam having high uric acid 9.0,"It seems like you have been experiencing recurring sciatica and lumbar spine pain despite taking various medications. The electric homeopathic treatment your doctor administered was likely meant to provide temporary relief. Duzelium (Dulcamara) 30C is often used in homeopathy to treat conditions related to dampness and cold, which might help with your symptoms if they are related to environmental factors or cold exposure.
+
+However, without more detailed information about your condition, it's difficult to determine if Duzelium would be beneficial for you. High uric acid levels could be a concern, as it can exacerbate joint pain and inflammation. It's important to monitor your uric acid levels and manage them under the guidance of your healthcare provider.
+
+Given your upcoming marriage, it's crucial to discuss any potential side effects of Duzelium with your doctor. They can provide you with a more personalized recommendation based on your specific situation. Additionally, managing your pain while also considering your uric acid levels may involve a combination of approaches, including lifestyle changes and possibly adjusting your diet.
+
+If your pain persists or worsens, further evaluation by a healthcare professional might be necessary to rule out other potential causes and to develop a comprehensive treatment plan.","Based on the information provided, duloxetine 30 mg might be suggested for your chronic low back pain and sciatica. However, it's important to note that the effects of duloxetine on sciatica and low back pain are not well-established, and the benefits are not consistently clinically meaningful.
+
+Given your concerns about side effects, especially considering your upcoming marriage and high uric acid levels, it's crucial to discuss these issues with your healthcare provider. They can monitor your uric acid levels and manage any potential side effects.
+
+It's also important to consider that the effectiveness of duloxetine for your specific condition is not well-documented, and the benefits might not be consistently clinically meaningful. Your doctor's suggestion should be taken with caution, and further evaluation might be needed.",0,1,0,1,1,2,2,1,B,"A ошибочно принимает Duzella/дулоксетин за гомеопатический препарат Dulcamara. B правильно распознаёт duloxetine и советует обсуждать пользу/риски с врачом, хотя оценка эффективности несколько упрощена."
+dev_0078,real_dev,"two months now into it...started off lower back pain then soreness in hip flexor both legs but more on right. now pain and ackey in both legs ham strings and quads. When driving, 10 min in, severe pain or acke from butt down ham into back of knee. I have to get out and stand up. then good for another 10 min. This is getting unbearable.","It sounds like your symptoms are worsening and becoming more severe, especially when driving. The pattern of pain that starts in your lower back, hip flexors, and then extends down to your hamstrings and quadriceps, along with the pain that occurs specifically while driving, suggests a complex issue that may require further evaluation. Given the severity and persistence of your symptoms, it would be prudent to seek medical attention soon to rule out conditions such as sciatica, muscle strain, or other potential causes. Pain that worsens during activities like driving could indicate a need for imaging studies or further diagnostic testing. Please consider seeing a healthcare provider as soon as possible.","Based on the information provided, it appears that your pain pattern has changed significantly over the past two months. Initially, you had lower back pain and hip flexor soreness in both legs, with more pronounced symptoms on the right side. Now, you are experiencing pain and akey (ankle) in both legs, hamstrings, and quadriceps. The pain is severe enough to require getting out of the car every 10 minutes, which improves for another 10 minutes before the pain returns. This pattern suggests a complex and evolving condition.
+
+Given the severity and persistence of your symptoms, it is important to seek further evaluation. The symptoms described, particularly the severe pain that requires getting out of the car, could indicate a variety of conditions including a herniated disc, spinal stenosis, or other structural issues. However, without a thorough clinical assessment, it is difficult to make a definitive diagnosis.
+
+It is recommended that you seek further evaluation with a specialist, such as a neurologist or orthopedic surgeon, who can perform a comprehensive examination and possibly order imaging studies like MRI or CT scans if indicated.",2,2,2,1,1,2,1,1,A,A даёт более осторожную рекомендацию обратиться за очной оценкой без лишней конкретизации диагноза. B сильнее спекулирует о herniated disc/spinal stenosis и преждевременно предлагает узких специалистов и визуализацию.
+dev_0097,real_dev,"ihave severe asthma and have been 5 times in the last 9 weeks and been given lots of steroids, so i am on insulin now. i am so wore ouy and can hardly get around. thw wheezing has stopped. i have high numbers of latic acid in the muscles. please tell me what to do.","Based on the information provided, it seems that you are experiencing severe asthma exacerbations and have been hospitalized multiple times recently. However, the retrieved guidelines do not provide specific recommendations for managing your current situation, especially with high levels of lactic acid in the muscles. Here are some considerations based on the available information:
+
+- For patients with severe asthma exacerbations, the guidelines suggest adding a long-acting muscarinic antagonist (LAMA) if they are not controlled by medium or high dose inhaled corticosteroids and long-acting beta agonists. However, this recommendation is weak and new-added, and it does not specifically address your current situation.
+- Pre-exertional short-acting beta agonists are suggested for patients with exercise-induced bronchoconstriction, but this is also a new-added recommendation without specific details on your case.
+
+Given your severe symptoms and recent hospitalizations, it is important to seek immediate medical attention. The high levels of lactic acid in your muscles could indicate muscle damage, which might be related to your asthma exacerbations. You should consult a healthcare provider for a thorough evaluation and appropriate management plan. They may consider adjusting your treatment regimen, possibly including more frequent use of short-acting beta agonists, LAMAs, or other medications as needed. Additionally, they will monitor your muscle function and adjust your treatment accordingly to prevent further complications.","It seems like your condition has significantly worsened despite the use of multiple doses of steroids and other treatments. The high levels of lactic acid in your muscles suggest that you may be experiencing muscle damage, which could be related to your ongoing severe asthma exacerbations. Given your current situation, it's important to seek immediate medical attention as soon as possible. 
+
+While I can't provide specific treatment recommendations, it's crucial that you follow up with your healthcare provider immediately. They will need to assess your overall health, adjust your treatment plan, and possibly provide additional support to manage your symptoms and prevent further complications.",0,1,0,1,1,2,2,1,B,A при тяжёлом текущем состоянии уходит в конкретные изменения терапии и неверно связывает высокий lactate с muscle damage. B безопаснее: подчёркивает необходимость немедленной медицинской оценки и не назначает лечение.
+dev_0135,real_dev,"I experience respiratory distress symptoms (SOB, decreased O2, voice changes) when I am exposed to perfumes and a few other strong oders and flying dust/dirt. What could this be a symptoms of?I am 37 years old, weigh 145, and have no hx of asthma or any other respiratory issues.","Based on the symptoms you described—respiratory distress triggered by strong odors like perfumes and flying dust/dirt—you might be experiencing an allergic reaction. However, without additional information such as specific odors that trigger your symptoms or any known allergens, it's difficult to make a definitive diagnosis. It could also be a non-allergic reaction to certain chemicals in the odors. Given your age, weight, and lack of a known respiratory history, it would be prudent to consult with a healthcare provider for further evaluation, especially if these symptoms become more frequent or severe. They may recommend avoiding the triggers and possibly performing allergy testing if allergies are suspected.","Based on the information provided, your symptoms of respiratory distress when exposed to perfumes and strong odors, along with flying dust and dirt, could potentially be related to asthma. However, the available evidence does not specifically link these symptoms to asthma.
+
+The guidelines suggest exploring precipitating and aggravating factors, which include ""strong odors, air pollution, chemicals, dusts/particulates, vapors, gases, and aerosols."" Your symptoms align with this list.
+
+Additionally, the guidelines mention that a history of atopy and allergic rhinitis increases the risk of new-onset asthma. Since you have no history of asthma or other respiratory issues, it's possible that your symptoms could be related to asthma, but this needs further evaluation.
+
+Given the lack of specific evidence linking your symptoms to asthma, it would be prudent to consult a healthcare provider for a thorough evaluation.",1,2,2,1,2,2,2,2,B,A в основном сводит симптомы к аллергической реакции. B лучше учитывает возможную астму/бронхиальную реактивность на сильные запахи и пыль и сохраняет диагностическую осторожность.
+who_01,guideline,At what blood pressure level should pharmacological treatment for hypertension be started?,"According to the guidelines, pharmacological treatment for hypertension should be started based on the following criteria:
+
+- For the general population, WHO recommends initiating pharmacological antihypertensive treatment when the systolic blood pressure (SBP) is ≥140 mmHg or diastolic blood pressure (DBP) is ≥90 mmHg.
+- For higher-risk populations (with diabetes, coronary artery disease, or prior stroke), WHO recommends initiating pharmacological antihypertensive treatment when the SBP is 130–139 mmHg and DBP is 80–89 mmHg.
+
+The guidelines also state that if the blood pressure level is high (e.g., SBP ≥160 mmHg or DBP ≥100 mmHg) or there is accompanying evidence of end organ damage, initiation of treatment should be started without delay.
+
+Based on the available evidence, the appropriate blood pressure level for initiating pharmacological treatment depends on the individual's risk profile.,","The decision to start pharmacological treatment for hypertension typically depends on the individual's blood pressure readings and other clinical factors. Generally, if a person's blood pressure consistently reaches or exceeds 140/90 mmHg, pharmacological intervention may be considered. However, this can vary based on additional risk factors such as age, presence of cardiovascular disease, diabetes, or kidney disease. It's important to consult with a healthcare provider to determine the appropriate treatment plan.",2,2,2,2,1,2,2,1,A,A даёт пороги начала терапии и отдельно учитывает высокий риск; B ограничивается общим порогом 140/90 и менее полно отвечает на вопрос.
+who_02,guideline,What laboratory tests should be considered before starting antihypertensive medication and during treatment?,"Before starting antihypertensive medication, it's important to consider baseline laboratory tests such as blood electrolytes (sodium, potassium), liver function tests, kidney function tests (creatinine and creatinine clearance), and a complete blood count (CBC) to check for anemia or other hematological abnormalities. During treatment, monitoring should include blood pressure control, electrolyte levels, and kidney function tests periodically, depending on the effectiveness and side effects of the medication. Liver function tests may also be monitored if there are concerns or if the medication has potential liver toxicity.","Before starting antihypertensive medication, the following tests are suggested: serum electrolytes, creatinine, lipid panel, HbA1C or fasting glucose, urine dipstick, and electrocardiogram (ECG).
+
+During treatment, these tests can be repeated periodically, depending on clinical judgment and availability.
+
+Common comorbidities that can be identified via laboratory testing include hyperlipidaemia and diabetes, with prevalences of 56% and 27% respectively.
+
+Testing can help identify patients who develop certain adverse events after treatment, such as hyperkalaemia and acute kidney injury.
+
+The desirable effects of testing are judged to be at least moderate, with the most important concern being the delay of starting treatment, which can lead to adverse cardiovascular outcomes.
+
+The cost-effectiveness of testing is uncertain, and it may be a barrier in less well-resourced settings.
+
+Therefore, while testing is recommended, its necessity depends on clinical judgment and resource availability.",1,2,2,1,2,2,2,2,B,"B перечисляет типичный набор базовых исследований перед лечением (электролиты, креатинин, липиды, глюкоза/HbA1c, моча, ECG) и условия повторного контроля. A добавляет менее обоснованные routine CBC/LFT и пропускает часть ключевых тестов."
+who_03,guideline,Which classes of medication are recommended as first-line treatment for hypertension?,"The first-line treatment for hypertension often includes medications from several classes. Commonly prescribed classes include ACE inhibitors (e.g., Lisinopril), ARBs (Angiotensin II Receptor Blockers, e.g., Losartan), diuretics (e.g., Hydrochlorothiazide), beta-blockers (e.g., Metoprolol), and calcium channel blockers (e.g., Amlodipine). These drugs are typically used alone or in combination to manage blood pressure effectively.","According to the guidelines, the following classes of medication are recommended as first-line treatment for hypertension:
+
+1. Thiazide and thiazide-like agents
+2. Angiotensin-converting enzyme inhibitors (ACEis)/angiotensin-receptor blockers (ARBs)
+3. Long-acting dihydropyridine calcium channel blockers (CCBs),,",1,2,1,2,2,2,2,2,B,"A включает beta-blockers в универсальные first-line классы, что не соответствует рассматриваемой рекомендации. B корректно называет thiazide/thiazide-like, ACEi/ARB и long-acting dihydropyridine CCB."
+who_04,guideline,When should combination drug therapy be used for treating hypertension?,"Combination drug therapy should be considered for adults with hypertension requiring pharmacological treatment, especially when the baseline blood pressure is ≥20/10 mmHg higher than the target blood pressure. This approach, which includes a single-pill combination, can improve medication adherence and persistence, leading to better blood pressure control.","Combination drug therapy for treating hypertension is typically considered when a single medication does not adequately control blood pressure after at least 2-3 months of treatment. This approach can help achieve better blood pressure control and reduce the risk of complications. However, the decision to use combination therapy should be made by a healthcare provider based on individual patient needs and blood pressure readings.",2,2,2,2,1,2,2,1,A,"A корректно описывает раннее использование комбинации, особенно при BP примерно на 20/10 выше цели, и преимущество single-pill combination. B ошибочно представляет комбинацию в основном как следующий шаг после 2–3 месяцев монотерапии."
+who_05,guideline,What blood pressure target should treatment aim for in adults receiving therapy for hypertension?,"Based on the guidelines provided, treatment for hypertension in adults should aim for the following blood pressure targets:
+
+- For all patients with hypertension without comorbidities, the target blood pressure should be <140/90 mmHg.
+- For high-risk patients with hypertension (those with high CVD risk, diabetes mellitus, chronic kidney disease), the target blood pressure should be <130 mmHg.
+
+[Citation]
+[Citation]","The blood pressure target for adults receiving therapy for hypertension should ideally be below 130/80 mmHg. However, this may vary based on individual health conditions and other factors, so it's important to follow the guidance of a healthcare provider.",2,2,2,2,1,2,2,1,A,A различает общий и более строгий target для пациентов высокого риска. B даёт <130/80 как практически универсальную цель и теряет важную стратификацию.
+t2d_01,guideline,How should glycemic control be monitored in adults with type 2 diabetes?,"In adults with type 2 diabetes mellitus, glycemic control should be monitored using high glycemic variability over time, such as fluctuations in HbA1c or fasting blood glucose levels, as a prognostic indicator for risk of hypoglycemia, morbidity, and mortality.
+
+Glycemic control should also be managed with an individualized HbA1c target range based on the clinician's appraisal of the risk-benefit ratio, patient characteristics, presence or absence of type 2 diabetes mellitus complications, comorbidities, and life expectancy.
+
+For adults with type 2 diabetes mellitus, especially those 65 years and older, drug classes other than insulin, sulfonylureas, or meglitinides should be prioritized to minimize the risk of hypoglycemia, if glycemic control can be achieved with other treatments.
+
+In adults with type 2 diabetes mellitus who have co-occurring cognitive impairment or risk of falls, there is insufficient evidence to recommend for or against specific treatment strategies for glucose lowering to reduce the risk of harms.","Glycemic control in adults with type 2 diabetes is typically monitored through regular blood glucose (sugar) testing. This can include self-monitoring with a home glucose meter, which involves taking blood glucose readings several times a day as directed by your healthcare provider. Your healthcare provider will also likely check your A1C level, which reflects your average blood sugar levels over the past 2-3 months. This helps to assess how well your diabetes management plan is working. Adjustments to your diet, exercise, or medications may be made based on these monitoring results.",1,1,2,1,2,2,2,1,B,"A смещает ответ к glycemic variability и добавляет нерелевантные рекомендации по выбору лекарств. B напрямую описывает HbA1c и glucose monitoring, хотя частота самоконтроля не универсальна для всех пациентов."
+t2d_02,guideline,What lifestyle and other non-drug interventions are recommended for adults with type 2 diabetes?,"For adults with type 2 diabetes mellitus, the following lifestyle and non-drug interventions are recommended:
+
+- Regular physical activity, including aerobic exercise, resistance training, or tai chi, to improve glycemic control.
+
+- A Mediterranean-style diet to improve glycemic control, body weight, and hypertension.
+
+The evidence suggests that regular physical activity, particularly aerobic exercise, resistance training, and tai chi, can help improve glycemic control. Additionally, a Mediterranean-style diet is recommended to manage glycemic control, body weight, and cardiovascular risk factors. However, the effectiveness of mindfulness-based stress reduction programs and other complementary therapies like acupuncture, biofeedback, hypnosis, guided imagery, massage therapy, yoga, and tai chi for improving outcomes remains inconclusive.","For adults with type 2 diabetes, lifestyle and non-drug interventions are crucial. These include:
+
+- **Dietary Changes**: Adopting a balanced diet low in saturated fats, trans fats, and cholesterol, rich in whole grains, fruits, vegetables, and lean proteins. This can help manage blood sugar levels.
+- **Physical Activity**: Engaging in regular physical activity, such as at least 150 minutes of moderate aerobic exercise or 75 minutes of vigorous exercise each week, which can improve insulin sensitivity and blood glucose control.
+- **Weight Management**: For those who are overweight or obese, losing weight through a combination of diet and exercise can significantly improve diabetes management.
+- **Blood Glucose Monitoring**: Regular monitoring of blood glucose levels can help individuals adjust their treatment plans and stay on track with their goals.
+
+These interventions should be tailored to individual needs under the guidance of a healthcare provider.",1,2,2,2,2,2,2,2,B,"Оба ответа полезны, но A внутренне противоречив: tai chi одновременно приводится как рекомендуемая активность и как подход с неопределённой эффективностью. B даёт более последовательный набор lifestyle interventions."
+t2d_03,guideline,What should be considered when choosing medications for treatment of type 2 diabetes?,"When choosing medications for the treatment of type 2 diabetes, consider the following:
+
+- Prioritize drug classes other than insulin, sulfonylureas, or meglitinides to minimize the risk of hypoglycemia, especially in adults with type 2 diabetes mellitus, especially those 65 years and older, and in patients with co-occurring cognitive impairment or risk of falls.
+
+- Be aware of potential limitations to the application of these recommendations, such as the proprietary nature of certain drugs and the cost implications.
+
+- Investigate the safety and effectiveness of diabetes medications based on patient characteristics, such as age, race, obesity, and comorbidities.
+
+- Consider the risks and benefits of diabetes treatments in the setting of an individual's unique characteristics and goals of care.","When choosing medications for the treatment of type 2 diabetes, several factors should be considered:
+
+1. **Blood Glucose Control**: The goal is to keep blood glucose levels within a target range as prescribed by a healthcare provider.
+2. **Side Effects and Adverse Reactions**: Different medications have different side effects. Some may cause hypoglycemia (low blood sugar), weight gain, or other issues.
+3. **Comorbidities**: Patients with other conditions such as hypertension, heart disease, or kidney disease may need medications that do not exacerbate these conditions.
+4. **Patient Preference and Lifestyle**: Considerations like dietary restrictions, exercise requirements, and personal preferences can influence medication choices.
+5. **Cost**: Medications can vary in cost, which can affect adherence and affordability.
+6. **Drug Interactions**: Certain medications can interact with diabetes drugs, so it's important to inform the healthcare provider about all current medications.
+7. **Duration of Treatment**: Some medications are short-term, while others are long-term. This affects how often they need to be taken and their potential long-term effects.
+
+These considerations help tailor the treatment plan to the individual patient’s needs.",2,2,2,2,2,2,2,2,tie,"Оба ответа медицински приемлемы: A лучше подчёркивает риск гипогликемии и особенности пожилых, B шире покрывает comorbidities, побочные эффекты, стоимость, предпочтения и взаимодействия."
+t2d_04,guideline,What management strategies are recommended for adults with prediabetes to reduce progression to type 2 diabetes?,"For adults with prediabetes, the following management strategies are recommended to reduce progression to type 2 diabetes:
+
+1. **Aerobic Exercise and Healthy Eating**: We suggest aerobic exercise (such as walking 8–9 miles a week) and healthy eating (with a goal weight loss >3%) to achieve a reduction in body fat mass, weight loss, and improvement in fasting blood glucose.
+
+2. **Pharmacotherapy**: For adults with prediabetes who have participated in healthy lifestyle modification and remain at high risk for progression to type 2 diabetes mellitus, we suggest evaluating patient characteristics (e.g., age, life expectancy, co-occurring conditions, BMI, other risk factors) and offering metformin or other select medications to reduce the risk of progression from prediabetes to type 2 diabetes mellitus.","For adults with prediabetes, the primary goal is to prevent the progression to type 2 diabetes. Recommended management strategies include:
+
+1. **Weight Loss**: Achieving and maintaining a healthy weight can significantly reduce the risk of developing type 2 diabetes. A weight loss of 5-10% of body weight can be effective.
+
+2. **Increased Physical Activity**: Engaging in regular physical activity, such as at least 150 minutes of moderate-intensity aerobic exercise per week, can help improve insulin sensitivity.
+
+3. **Dietary Changes**: Adopting a diet that is low in saturated fats, cholesterol, and calories, and high in fiber, fruits, and vegetables can also help manage blood sugar levels.
+
+4. **Monitoring Blood Sugar Levels**: Regular monitoring of blood glucose levels can help track progress and adjust lifestyle changes as needed.
+
+5. **Education and Support**: Educating patients about their condition and providing support can motivate them to make lasting lifestyle changes.
+
+These strategies should be tailored to each individual based on their specific needs and circumstances.",2,2,2,2,2,2,2,1,A,"A кроме lifestyle modification указывает возможность metformin/другой терапии у пациентов высокого риска после изменений образа жизни. B полезен, но не покрывает этот важный вариант."
+t2d_05,guideline,What education and support should patients receive to help them manage type 2 diabetes themselves?,"To help patients manage type 2 diabetes themselves, they should receive diabetes self-management education and support (DSMES). This includes an assessment (including food insecurity), nutrition diagnosis and intervention, and monitoring and reevaluation.
+
+The education should cover the following topics:
+- Diabetes physiology
+- Monitoring (e.g., home glucose, HbA1c, BP, lipids, eGFR, moderately increased albuminuria)
+- Nutrition and healthy eating
+- Comprehensive assessment and education on 8 topics
+  - Diabetes physiology
+  - Monitoring
+  - Healthy coping
+  - Taking medications
+  - Healthy eating
+  - Being active
+  - Reducing risk
+  - Problem solving
+- An individualized approach based on shared decision making
+
+It is recommended that patients also receive ongoing support, reassessing and reeducating the patient and support persons as necessary.","Patients with type 2 diabetes should be educated on self-management skills, including monitoring blood glucose levels, understanding their diet and exercise plans, recognizing signs of hyperglycemia and hypoglycemia, and understanding the importance of regular check-ups and medication adherence. They should also be taught how to adjust their treatment plan as needed based on their blood glucose levels and other factors. Support groups and resources can also provide encouragement and additional guidance.",2,2,2,2,2,2,2,1,A,"A полно описывает DSMES, ключевые темы обучения и необходимость последующей переоценки/поддержки. B корректен, но заметно более общий."
+ckd_01,guideline,"How should chronic kidney disease be evaluated, staged, and monitored over time?","Chronic kidney disease (CKD) is typically evaluated, staged, and monitored through a combination of clinical assessment, blood tests, and urine tests. The staging system for CKD uses the following criteria:
+
+- **Staging:** CKD is staged from 1 to 5, with stage 5 being end-stage renal disease (ESRD). Stages 1-3 are considered early CKD, while stages 4-5 are more advanced.
+
+- **Evaluation:** 
+  - **Clinical Assessment:** This includes assessing the patient's overall health, symptoms, and any underlying conditions that may affect kidney function.
+  - **Blood Tests:** These include measuring serum creatinine levels, which help determine the glomerular filtration rate (GFR), and other electrolyte levels.
+  - **Urine Tests:** Urinalysis can detect proteinuria (protein in the urine), which is a key indicator of kidney damage.
+
+- **Monitoring Over Time:**
+  - **Regular Follow-Up:** Patients with CKD should have regular follow-up visits every 3-6 months, depending on their GFR and other factors.
+  - **GFR Monitoring:** GFR is a crucial measure of kidney function. It is calculated using serum creatinine levels and adjusted for body size (creatinine clearance).
+  - **Regular Blood Pressure Checks:** High blood pressure is common in CKD and can accelerate kidney damage. Regular blood pressure checks are essential.
+  - **Dietary Management:** Depending on the stage, dietary restrictions such as limiting protein intake, sodium, and phosphorus may be recommended.
+  - **Medication Review:** Regular review of medications to ensure they do not harm the kidneys is important.
+
+It's important to note that the specific monitoring schedule and interventions will vary based on the individual's GFR and other factors. Regular communication with a healthcare provider is crucial for managing CKD effectively.","Chronic kidney disease (CKD) should be evaluated, staged, and monitored over time based on the following guidelines:
+
+- CKD stages and associated risks are presented in the document. The majority of CKD patients are asymptomatic until CKD stage G5, when uremic symptoms develop, at which time kidney replacement therapy (KRT) may be recommended depending on co-occurring conditions and values.
+- Monitoring frequency varies according to the risk of CKD progression:
+  - At diagnosis and at least annually in patients at low or moderate risk of progression.
+  - At least 2-3 times per year in those at high risk of progression and at least 4 times per year in those at very high risk of progression.
+  - More often when measurements impact therapeutic decisions, such as within 2-4 weeks of initiating or increasing RAASi doses, and one month after initiating nonsteroidal MRA, then at least every 4 months.
+- Commonly monitored parameters include:
+  - Serum creatinine to estimate GFR, using the 2021 CKD-EPI creatinine equation.
+  - Cystatin C, at least once, and more frequently if more accurate assessment is needed (e.g., in extremes of creatinine generation).
+  - Spot urine ACR, at diagnosis and at least annually; more often in patients at higher risk of progression.
+  - Blood pressure, at diagnosis, at each visit, and as needed to ensure blood pressure is controlled to goal.
+  - Potassium, at diagnosis and at least annually; more often in patients with a history of hyperkalemia or at risk due to stage of CKD or medications.
+  - Bicarbonate, when measurement impacts therapeutic decisions.
+  - Calcium, phosphate, PTH, and 25-hydroxyvitamin D, when measurement impacts therapeutic decisions.
+  - Hemoglobin, at least annually in CKD stage G3, at least twice per year in CKD stage G4, and at least 4 times per year in CKD stage G5.
+  - Kidney Failure Risk Prediction Calculation and Cardiovascular Risk Prediction, at diagnosis and when prediction impacts therapeutic decisions.
+  - Medication reconciliation and review, at diagnosis and each clinic visit or",1,2,2,1,2,2,2,2,B,"A даёт слишком упрощённое стадирование и фиксированный интервал наблюдения. B лучше отражает risk-based monitoring и конкретные параметры (eGFR/ACR, BP, potassium, hemoglobin и др.)."
+ckd_02,guideline,When should a patient with chronic kidney disease be referred to a nephrology specialist?,"A patient with chronic kidney disease should be referred to a nephrology specialist when their estimated glomerular filtration rate (eGFR) is below 30 mL/minute/1.73 m² or the risk of end-stage renal disease (ESKD) calculated by a validated risk prediction model exceeds 40% over 2 years. Additionally, early referral is recommended for high-risk autosomal dominant polycystic kidney disease (ADPKD) patients to optimize potential therapeutic benefit, considering the benefits of slowing CKD progression and reducing pain associated with polycystic kidney disease. Regular medication reviews and consultations with a nephrologist are also important to manage medications safely and effectively in CKD patients.","A patient with chronic kidney disease (CKD) should be referred to a nephrologist if their CKD stage progresses to at least stage 3b or 4, or if they have other complications such as hypertension, anemia, or electrolyte imbalances. Additionally, if the patient's GFR falls below 30 mL/min/1.73m², referral to a nephrologist is typically recommended. It's important to note that individual cases may vary based on the patient's overall health status and specific needs.",1,2,2,1,1,2,2,1,tie,"Оба ответа дают лишь часть критериев направления. A использует очень специфичный risk threshold, B — более общие стадии/осложнения; ни один ответ не даёт достаточно полного и уверенного набора показаний."
+ckd_03,guideline,How should the decision between dialysis and conservative management be made in advanced CKD?,"The decision between dialysis and conservative management in advanced CKD depends on several factors including the patient's overall health, symptoms, estimated glomerular filtration rate (eGFR), and their personal preferences. Conservative management might include dietary restrictions, medications to manage complications, and regular monitoring. Dialysis is typically considered if the eGFR falls below 10-15 mL/min/1.73m², or if the patient experiences significant symptoms such as fluid overload, electrolyte imbalances, or uremic symptoms. It also becomes necessary if the patient has developed severe anemia, bone disease, or heart problems. Ultimately, this decision should be made collaboratively with the patient and healthcare team based on these factors.","In the management of advanced CKD, the decision between dialysis and conservative management should consider the patient's primary goal. Early referral with sufficient time for clinical evaluation, patient education, shared decision-making (SDM) for modality selection, and dialysis preparation, including access planning, placement, and maturation, is suggested if the patient's first priority is prolonging life. Conservative management may be preferred for patients with high co-occurring conditions or low functional status who prioritize avoiding hospitalization and aggressive medical interventions. However, early referral is recommended to reduce mortality risk, lower hospitalization rates, and improve clinical outcomes. Decisions should be guided by validated risk prediction models to identify patients at high risk of needing dialysis. Given the complexity and logistics, up to a year may be required to adequately prepare patients for dialysis.",1,2,1,1,2,2,2,2,B,"A чрезмерно привязывает начало dialysis к eGFR 10–15 и отдельным осложнениям. B лучше подчёркивает shared decision-making, цели пациента, функциональный статус и заблаговременную подготовку."
+ckd_04,guideline,How should hyperkalemia be managed in a patient with chronic kidney disease?,"In managing hyperkalemia in a patient with chronic kidney disease, the following steps are recommended:
+
+First-line:
+- Review non-RAASi culprit medications and discontinue when possible.
+- Consider appropriate moderation of dietary potassium intake.
+
+Second-line:
+- Use diuretics (when appropriate and risk of volume depletion is low).
+- For outpatients with acute hyperkalemia who have a potassium concentration of >6.0 mmol/L or hyperkalemia with any new EKG changes, refer them to a facility with cardiac monitoring, usually an emergency department that can address this urgently.
+
+The aggressiveness of treatment depends on the degree of elevation and the presence or absence of EKG findings. Patients with acute hyperkalemia should be referred if their potassium concentration is >6.0 mmol/L or if they have any new EKG changes.","Hyperkalemia in a patient with chronic kidney disease should be managed cautiously due to the patient's compromised renal function. The goal is to reduce serum potassium levels while minimizing further kidney damage. Here are some steps that can be taken:
+
+1. **Monitor Serum Potassium Levels**: Regularly check serum potassium levels to guide treatment and adjust as needed.
+
+2. **Dietary Modifications**: Advise the patient to avoid foods high in potassium, such as bananas, oranges, potatoes, and tomatoes. Monitor adherence to these dietary restrictions.
+
+3. **Pharmacological Management**:
+   - **Loop Diuretics (Furosemide)**: These can help excrete potassium through urine, but their use should be monitored to prevent dehydration.
+   - **Spironolactone**: This can be used in combination with loop diuretics to enhance potassium excretion, but it should be used cautiously in patients with impaired renal function.
+   - **Calcium Carbonate or Phosphate Binders**: These can bind dietary calcium and phosphorus, which may compete with potassium for binding sites in the gut, potentially reducing potassium absorption.
+
+4. **Avoid Medications That Increase Potassium Levels**: Ensure the patient avoids medications like ACE inhibitors and ARBs, which can increase serum potassium levels.
+
+5. **Consider Dialysis if Necessary**: If serum potassium levels remain uncontrolled despite conservative management, dialysis might be considered, especially if serum potassium levels exceed 6.5 mmol/L.
+
+6. **Monitor Renal Function**: Regularly assess renal function to monitor the progression of chronic kidney disease and the effectiveness of treatment.
+
+It's crucial to tailor the management plan based on the patient's specific clinical context and laboratory values.",1,2,2,2,0,2,0,2,A,"A в основном следует разумной стратегии, хотя ошибочно помещает urgent referral внутрь second-line. B содержит опасные ошибки: spironolactone повышает potassium, а calcium/phosphate binders не являются стандартным способом снижения potassium."
+ckd_05,guideline,What medication-related precautions should be considered in patients with chronic kidney disease?,"In patients with chronic kidney disease (CKD), it's important to consider several medication-related precautions to avoid potential adverse effects. These include:
+
+- Monitor serum creatinine levels and GFR (glomerular filtration rate) regularly to adjust dosages as needed.
+- Be cautious with nephrotoxic drugs such as nonsteroidal anti-inflammatory drugs (NSAIDs), aminoglycosides, and vancomycin, which can further impair kidney function.
+- Consider dose adjustments for medications that are primarily metabolized by the kidneys, such as many antibiotics, diuretics, and analgesics.
+- Monitor electrolyte levels, especially potassium, calcium, and phosphorus, as these can be affected by certain medications.
+- Be aware of drug interactions, particularly with other nephrotoxic drugs, and use caution with combination therapy.","In patients with chronic kidney disease (CKD), the following medication-related precautions should be considered:
+
+- Consider drug monitoring for medications with a narrow therapeutic index (e.g., anticonvulsants).
+- Perform a medication review and reconciliation at regular intervals, at transitions of care, or if health status or glomerular filtration rate (GFR) changes.
+- Optimize the use of medications; drugs should only be used in CKD if the clinical benefits clearly outweigh the risks, and drugs should be avoided to minimize polypharmacy or discontinued if there is unclear benefit.
+- Ensure awareness of CKD diagnosis; electronic health records and decision support tools can be leveraged to highlight CKD diagnosis and stage.
+- Assess both CKD stage and an estimate of kidney function (e.g., creatinine clearance or eGFR).
+- Adjust drug and drug dose based on the estimated GFR or creatinine clearance.
+- Utilize manufacturer's product labeling for recommendations; if kidney dosing information is not available, tertiary references (e.g., Micromedex, Lexicomp) can be utilized.
+- Be aware that patients with CKD may be more prone to adverse effects from any prescribed drug and are at risk of a ""prescribing cascade"".
+- Encourage patients to educate themselves on the utility of maintaining an accurate medication list, the importance of medication adherence, and the side effects of medications, and empower them to ask questions.",2,2,2,1,2,2,2,2,B,"Оба ответа корректны, но B лучше покрывает medication reconciliation, narrow therapeutic index, дозирование по kidney function, polypharmacy и регулярный review."
+asthma_01,guideline,How should asthma be diagnosed and assessed in a patient with respiratory symptoms?,"Asthma can be diagnosed and assessed based on a combination of clinical history, physical examination, and sometimes additional tests. Here’s how it can be done:
+
+1. **Clinical History**: 
+   - Ask about the pattern and duration of symptoms, such as wheezing, shortness of breath, chest tightness, and coughing.
+   - Note if symptoms occur at certain times (e.g., during the night, after exercise, or in response to allergens).
+
+2. **Physical Examination**:
+   - Listen for wheezing sounds using a stethoscope.
+   - Check for signs of respiratory distress or abnormal lung sounds.
+
+3. **Additional Tests**:
+   - **Pulmonary Function Tests (PFTs)**: These measure how well your lungs work. Common tests include spirometry, which assesses how much air you can exhale in one second and how forcefully you can exhale.
+   - **Allergy Testing**: If allergies are suspected, skin prick tests or blood tests can help identify specific triggers.
+   - **Exhaled Breath Analysis**: Some devices can measure levels of nitric oxide (NO) in exhaled breath, which may indicate inflammation in the airways.
+
+If these assessments suggest asthma, further management and treatment will depend on the severity and control of symptoms. Regular follow-ups and monitoring are essential to adjust treatment plans as needed.","To diagnose and assess asthma in a patient with respiratory symptoms, follow these steps:
+
+1. **Assess Symptoms and Signs**: Evaluate the patient's symptoms and signs that are compatible with asthma (e.g., wheezing, shortness of breath, cough).
+
+2. **Follow-Up and Treatment**:
+   - If the patient has an acute asthma exacerbation, treat them acutely. Otherwise, continue to monitor the patient.
+   - Determine if there is a confident clinical diagnosis of asthma. If not, consider alternative diagnoses.
+   - Assess the patient's capability to perform spirometry and the availability of spirometry equipment. If spirometry is compatible with asthma, proceed with further assessment.
+   - If spirometry is not compatible with asthma, consider other options according to site availability and patient/provider preferences and characteristics.
+
+3. **Consider Other Options**: Depending on the site availability and patient/provider preferences, consider other diagnostic options.
+
+4. **Continue Monitoring**: For patients with stable asthma, routine spirometry is not recommended due to potential added burden and difficulties in performance.",2,2,2,2,2,2,2,2,tie,"Оба ответа дают приемлемый diagnostic approach. A подробнее описывает history/physical и возможные дополнительные тесты, B лучше отражает пошаговую оценку и роль spirometry."
+asthma_02,guideline,How can the level of asthma control be assessed in a patient who already has asthma?,"The level of asthma control can be assessed by evaluating the patient's response to treatment over a period of 2-3 months. According to Table C-1 in Appendix C of the VA/DOD Clinical Practice Guideline for the Primary Care Management of Asthma, the assessments include:
+
+- **Mild Controlled**: On low-intensity treatment (e.g., prn low dose ICS-formoterol or low dose ICS + prn rapid-onset LABA/SABA).
+- **Moderate Controlled**: With low or medium-dose ICS-LABA.
+- **Severe Controlled**: With high-dose ICS-LABA (with or without add-on therapies such as LAMA, biologic therapies, or chronic oral corticosteroids).
+- **Uncontrolled**: Despite high-dose ICS-LABA (with or without add-on therapies).
+
+It is important to note that the severity classification does not apply to the active duty population due to different occupational requirements.","The level of asthma control in a patient with asthma can be assessed through several methods, including:
+
+1. **Symptoms**: Monitoring for symptoms such as coughing, wheezing, shortness of breath, and chest tightness.
+2. **Respiratory Function Tests (Spirometry)**: These tests measure how well your lungs are working. They can show if your airways are inflamed and how well they are able to open up when you breathe.
+3. **Asthma Control Questionnaire (ACQ)**: This questionnaire helps evaluate the overall impact of asthma on daily life.
+4. **Asthma Action Plan**: Reviewing the action plan with the patient to ensure it is being followed and adjusted as needed.
+
+If you have any concerns or questions, it's best to discuss them with a healthcare provider.",1,1,2,1,1,2,2,2,B,"A фактически описывает severity по интенсивности терапии, а не уровень текущего asthma control. B непосредственно оценивает симптомы и инструменты контроля, хотя роль routine spirometry сформулирована неидеально."
+asthma_03,guideline,When should a patient with asthma be referred to a specialist?,"Patients with asthma should be referred to a specialist if they meet any of the following criteria:
+
+- They have ever had a life-threatening asthma exacerbation.
+- They need advanced therapies such as biologics, roflumilast, or a chronic macrolide antibiotic.
+- They require more than two courses of oral corticosteroids in one year or had an exacerbation requiring hospitalization.
+- They have other conditions that complicate asthma or its diagnosis, such as recurrent sinusitis, nasal polyps, allergic bronchopulmonary aspergillosis (ABPA), aspirin exacerbated respiratory disease (AERD), severe rhinitis, vocal cord dysfunction, gastroesophageal reflux disease (GERD), or chronic obstructive pulmonary disease (COPD).
+- Additional diagnostic testing is indicated, such as allergy testing, rhinoscopy, complete pulmonary function studies, or bronchoscopy.
+- Persistent airflow limitation is present on pulmonary function testing.
+- They are being considered for specialized treatments including immunotherapy, biological agents, or bronchial thermoplasty.
+- They require additional education and guidance on complications of therapy, problems with adherence, or allergen avoidance (asthma educator).","A patient with asthma should be referred to a specialist if they have persistent uncontrolled asthma despite optimal use of inhaled corticosteroids and long-acting beta-agonists (LABAs). This typically includes patients who experience frequent exacerbations, hospitalizations, or emergency room visits related to their asthma. Additionally, if the patient has difficulty managing their asthma on their own or if there are signs of severe asthma, such as a peak expiratory flow rate below 50% of the predicted value, referral to a specialist may be warranted.",2,2,2,2,1,2,2,1,A,"A даёт гораздо более полный набор показаний к referral: life-threatening exacerbation, repeated steroids/hospitalization, diagnostic uncertainty, comorbidities и advanced therapies. B верен в общем, но неполон."
+asthma_04,guideline,What treatment and management approaches are recommended for adults with asthma?,"For patients with uncontrolled asthma on inhaled corticosteroids alone, we recommend the use of both inhaled corticosteroids and rapid-onset long-acting beta agonists (e.g., formoterol) as both controller and reliever.
+
+We suggest adding a long-acting muscarinic antagonist (LAMA) for patients with asthma (ages 12 and over) not controlled by medium or high dose inhaled corticosteroids and long-acting beta agonists.
+
+Stepping down (not discontinuing) inhaled corticosteroids dose or discontinuing long-acting beta agonists.","For adults with asthma, the primary treatment approach includes using inhaled corticosteroids as maintenance therapy to reduce inflammation and prevent symptoms. They should also use a short-acting beta-agonist (SABA) inhaler as needed for quick relief of acute symptoms. It's important for them to avoid triggers and monitor their condition regularly. Regular follow-ups with a healthcare provider are essential to adjust medications and manage the disease effectively.",2,2,2,2,1,2,2,1,A,A отражает современную controller/reliever стратегию с ICS-formoterol и возможное добавление LAMA. B даёт более старую и слишком общую схему ICS + SABA.
+asthma_05,guideline,What alternative diagnoses should be considered when symptoms resemble asthma?,"When considering alternative diagnoses for symptoms that resemble asthma, several conditions need to be ruled out or included in the differential diagnosis. These include:
+
+1. **Chronic Obstructive Pulmonary Disease (COPD)**: This condition can present with similar symptoms to asthma but often has a more chronic course and may have a different pattern of exacerbations.
+
+2. **Gastroesophageal Reflux Disease (GERD)**: Symptoms such as coughing and wheezing can be associated with GERD, especially at night.
+
+3. **Viral Bronchitis**: Infections like the common cold can cause similar symptoms, particularly in children.
+
+4. **Pulmonary Fibrosis**: A progressive lung disease where the lung tissue becomes scarred over time, leading to shortness of breath and cough.
+
+5. **Cardiogenic Pulmonary Edema**: Fluid accumulation in the lungs due to heart failure can cause shortness of breath and cough.
+
+6. **Allergic Rhinitis**: Sometimes, patients with allergic rhinitis can develop symptoms that mimic asthma, especially during an allergic reaction.
+
+7. **Exercise-Induced Bronchoconstriction**: This is a type of reversible airway obstruction that occurs after exercise, which can be mistaken for asthma.
+
+8. **Aspirin Exacerbated Respiratory Syndrome (AERD)**: A rare condition characterized by asthma, nasal polyps, and sensitivity to aspirin and nonsteroidal anti-inflammatory drugs.
+
+9. **Churg-Strauss Syndrome**: An autoimmune disorder that can present with eosinophilia and pulmonary involvement, including asthma-like symptoms.
+
+10. **Hypersensitivity Pneumonitis**: An inflammatory lung disease caused by inhaling certain substances, which can lead to symptoms similar to asthma.
+
+It's important to consider these conditions based on the patient's clinical presentation, risk factors, and any additional symptoms or signs that might help differentiate them from asthma.","When symptoms resemble asthma, the following alternative diagnoses should be considered:
+
+- Recurrent fleeting airway obstruction (Table C-5, Source 1)
+- Allergic bronchopulmonary aspergillosis (Table C-5, Source 1)
+- Bronchiectasis (Table C-5, Source 1)
+- Mucoid impaction (Table C-5, Source 1)
+- Centrilobular nodules (Table C-5, Source 1)
+- Brownish sputum (Table C-5, Source 1)
+- Fever (Table C-5, Source 1)
+- Malaise (Table C-5, Source 1)
+- Allergic rhinitis (Table C-5, Source 1)
+- Bronchiolitis (Table C-5, Source 1)
+- Bronchopulmonary dysplasia (Table C-5, Source 1)
+
+These conditions can present with symptoms similar to asthma but require further assessment and testing to differentiate them.",1,2,2,2,0,1,2,1,A,"A в основном перечисляет реальные альтернативные диагнозы, хотя часть пунктов скорее сопутствующие состояния/фенотипы. B ошибочно включает симптомы (fever, malaise, brownish sputum) как отдельные диагнозы."
+lbp_01,guideline,How should a patient with low back pain be evaluated to determine whether further diagnostic testing is needed?,"To determine whether further diagnostic testing is needed for a patient with low back pain, the evaluation should include the following steps:
+
+1. **History and Physical Examination**: Evaluate for progressive or otherwise serious neurologic deficits and other red flags (e.g., signs, symptoms, history) associated with serious underlying pathology (e.g., malignancy, fracture, infection).
+
+2. **Diagnostic Imaging and Appropriate Laboratory Testing**:
+   - Obtain diagnostic imaging and appropriate laboratory testing if:
+     - Neurologic deficits are progressive or otherwise serious.
+     - Other red flags (e.g., signs, symptoms, history) are present.
+
+The evaluation and diagnostic approach should not include routine imaging studies or invasive diagnostic tests for patients with acute low back pain without focal neurologic deficits or other red flags.
+
+In terms of specific physical examination maneuvers, there is insufficient evidence to recommend for or against performing them.
+
+Therefore, the evaluation should focus on identifying any serious underlying pathology through a thorough history and physical examination, and then decide on further diagnostic testing based on the presence of progressive neurologic deficits or other red flags.","To evaluate a patient with low back pain to determine if further diagnostic testing is needed, consider the following steps:
+
+1. **History and Physical Examination:**
+   - Assess the duration, intensity, and pattern (e.g., constant, intermittent) of the pain.
+   - Note any associated symptoms such as numbness, weakness, or incontinence.
+   - Evaluate the range of motion and strength of the lower extremities.
+   - Look for signs of red flags such as new onset of pain in an elderly patient, unexplained weight loss, or inability to bear weight on the affected leg.
+
+2. **Imaging Studies:**
+   - **X-ray:** Useful for identifying fractures, degenerative changes, or bony abnormalities but less sensitive for soft tissue injuries.
+   - **MRI:** More sensitive for detecting soft tissue injuries, herniated discs, and spinal stenosis.
+   - **CT Scan:** Useful for detailed imaging of bone structures, particularly helpful if there's suspicion of a fracture or infection.
+
+3. **Nerve Conduction Studies (NCS):**
+   - These can help identify nerve compression or damage, especially if there are signs of radiculopathy.
+
+If the patient has no red flags, a brief course of conservative management (rest, ice, heat, physical therapy, etc.) may be sufficient. However, if the pain persists, worsens, or is accompanied by neurological deficits, further diagnostic testing is indicated. MRI is often recommended first, followed by other imaging studies if necessary.",2,2,2,2,1,2,1,2,A,"A правильно фокусируется на history/physical, progressive neurologic deficits и red flags и не рекомендует routine imaging без показаний. B заметно легче переходит к MRI/CT/NCS и рискует overtesting."
+lbp_02,guideline,What self-care and education should be recommended to patients with low back pain?,"Based on the available guidelines, for patients with low back pain, there is insufficient evidence to recommend for or against the following self-care and education:
+
+- Pain neuroscience education, clinician-directed education with patient-led goal setting, or back school.
+- A structured clinician-directed exercise program (e.g., aerobic, aquatic, mechanical diagnosis and therapy, mobility, motor control, Pilates, strengthening exercises, structured walking program, tai chi) for patients with chronic low back pain.
+- Cognitive behavioral therapy for patients with chronic low back pain.
+- Spinal mobilization/manipulation for patients with chronic low back pain.
+- Mindfulness-based stress reduction for patients with chronic low back pain.
+- Lumbar supports for patients with low back pain.
+
+For the self-management of low back pain, there is insufficient evidence to recommend for or against technology-based modalities.","For patients with low back pain, self-care recommendations include maintaining good posture, engaging in gentle stretching exercises, and practicing proper lifting techniques. Education should focus on recognizing when to seek further medical attention, such as if the pain is severe, persistent, or accompanied by other symptoms like weakness in legs or numbness. Patients should also be advised to avoid activities that exacerbate their pain. Regular follow-up with a healthcare provider can help monitor the condition and adjust treatment as needed.",0,1,2,1,1,2,2,1,B,"A искажает направление нескольких рекомендаций: structured exercise, CBT и spinal manipulation представлены как insufficient evidence. B более общий, но не содержит такого явного изменения recommendation strength."
+lbp_03,guideline,Which non-drug and non-invasive treatments are recommended for managing low back pain?,"Non-drug and non-invasive treatments for managing low back pain include physical therapy, exercise programs, and education on posture and body mechanics. Additionally, techniques such as heat/cold therapy, massage, and acupuncture may be beneficial. It's important to consult with a healthcare provider to tailor these treatments to your specific needs.","Based on the retrieved guidelines, the following non-drug and non-invasive treatments are recommended for managing low back pain:
+
+- Spinal mobilization/manipulation (Source 3)
+
+The guidelines suggest spinal mobilization/manipulation as a treatment for chronic low back pain. For acute low back pain, there is insufficient evidence to recommend or against spinal mobilization/manipulation (Source 3).
+
+Exercise programs are also recommended:
+- Clinically directed exercise programs (Source 2)
+- Including aerobic, aquatic, MDT, mobility, motor control, Pilates, strength training, structured walking programs, and tai chi (Source 2)",1,2,2,2,2,2,2,2,B,"B называет конкретные guideline-supported non-drug approaches и различает chronic vs acute evidence. A добавляет несколько общих методов, для которых сила доказательств не уточняется."
+lbp_04,guideline,What medications can be considered for the treatment of low back pain?,"Medications commonly used for the treatment of low back pain include nonsteroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen or naproxen. Muscle relaxants like cyclobenzaprine might also be prescribed if there is muscle spasm. Additionally, acetaminophen can be used for mild to moderate pain. It's important to note that these medications should be taken as directed and under the guidance of a healthcare provider. Pain management may also involve physical therapy and other interventions depending on the underlying cause of the pain.","Based on the available guidelines, the following medications can be considered for the treatment of low back pain:
+
+- Nonsteroidal anti-inflammatory drugs (NSAIDs): Neither for nor against.
+- Duloxetine: Suggest weak for.
+- Topical preparations: Neither for nor against.
+
+The remaining options have insufficient evidence to make a recommendation for or against their use.",1,2,2,1,1,2,2,1,tie,"Оба ответа имеют существенные ограничения: A добавляет acetaminophen и muscle relaxants без нужной оговорки, B спорно описывает NSAIDs как neither for nor against. Явного победителя нет."
+lbp_05,guideline,What non-surgical invasive treatments may be considered for patients with persistent low back pain?,"Non-surgical invasive treatments for persistent low back pain include epidural steroid injections, which involve injecting corticosteroids into the epidural space around the spinal cord to reduce inflammation and relieve pain. Other procedures might include radiofrequency ablation, which uses heat to destroy nerve fibers causing pain. These treatments are typically considered if conservative measures like physical therapy, medications, and lifestyle changes have been tried but do not provide adequate relief.","Based on the available guidelines, non-surgical invasive treatments may be considered for patients with persistent low back pain. However, the evidence does not specify which particular treatments are most effective. The treatments that may be considered include orthobiologic injections, which are infrequently requested by patients. Additionally, while some patients may seek out emerging interventional therapies, orthobiologic injections are not commonly requested. Stem cell treatments are also mentioned but are less frequently pursued due to patient hesitance.",1,2,2,1,0,1,2,1,A,"A называет распространённые non-surgical invasive options (epidural injections, radiofrequency ablation), хотя не уточняет силу рекомендаций. B уходит преимущественно в orthobiologics/stem cells и плохо отвечает на основной вопрос."
+mdd_01,guideline,How should a patient be initially assessed when major depressive disorder is suspected?,"When major depressive disorder is suspected, an initial assessment should include:
+
+- Reviewing the patient's symptoms, duration, and impact on daily functioning.
+- Checking for any suicidal ideation or self-harm risks.
+- Evaluating for other mental health conditions or comorbidities.
+- Assessing for physical health issues that could contribute to depression.
+- Considering any recent stressful life events or significant losses.
+- Screening for substance use disorders.
+- Checking for any new medications or changes in medication regimens.
+- Assessing sleep patterns and appetite changes.
+- Evaluating for any signs of psychomotor retardation or agitation.
+
+No specific diagnostic criteria can be determined based on this information alone.","When major depressive disorder is suspected, the patient should be initially assessed according to the VA/DoD Clinical Practice Guideline for the Management of Major Depressive Disorder. This includes evaluating the patient's functional status, medical history, past treatment history, and relevant family history. The PHQ-9 should also be administered. It is important to assess for suicidal and homicidal ideation and history of suicide attempts. Additionally, the patient should be evaluated to rule out depression secondary to other causes such as hypothyroidism, vitamin B-12 deficiency, syphilis, pain, or chronic disease.",2,2,2,2,2,2,2,2,tie,"Оба ответа дают адекватную initial assessment: симптомы/функционирование, suicide risk, comorbidities и возможные вторичные причины. B добавляет PHQ-9, A шире описывает контекст и substance/medication review."
+mdd_02,guideline,How should treatment outcomes be monitored in a patient being treated for major depression?,"Treatment outcomes in patients being treated for major depression should be monitored using a quantitative measure of depression severity. This can be achieved through the regular use of patient-reported outcomes (PROs) in routine clinical care to track progress and allow adjustments in treatment.
+
+The use of measurement-based care (MBC) is recommended as it enhances outcomes. MBC involves collecting PROs, sharing the results with the patient and other providers, and acting on the results to make appropriate adjustments in care.
+
+However, the quality of evidence for specific measures and the frequency of monitoring is insufficient to make a recommendation. The PHQ-9 (see Appendix I for further discussion) is promoted by the DoD and VA, but no specific frequency can be recommended as superior.
+
+MBC is a key component in collaborative care programs and psychotherapy, leading to better treatment outcomes.,","Treatment outcomes for a patient with major depression should be monitored through regular follow-up appointments and assessments. This typically includes evaluating the patient's symptoms using standardized scales such as the Patient Health Questionnaire-9 (PHQ-9) or the Hamilton Rating Scale for Depression (HRSD). The goal is to assess improvements in depressive symptoms, which can include reductions in feelings of sadness, hopelessness, and loss of interest in activities. Additionally, monitoring side effects of any prescribed medications and adjusting treatment plans as needed are also important aspects of managing major depression.",2,2,2,2,2,2,2,2,A,"Оба ответа корректны, но A точнее описывает measurement-based care и регулярное использование количественной шкалы с последующей корректировкой лечения."
+mdd_03,guideline,What treatments are recommended for uncomplicated major depressive disorder?,"For uncomplicated major depressive disorder (MDD), the following treatments are recommended:
+
+- Psychotherapy: We suggest offering one of the following interventions (not ranked): Acceptance and commitment therapy, Behavioral therapy/behavioral activation, Cognitive behavioral therapy, Interpersonal therapy, Mindfulness-based cognitive therapy, Problem-solving therapy, Short-term psychodynamic psychotherapy.
+- Pharmacotherapy: We suggest offering one of the following (not ranked): Bupropion, Mirtazapine, Serotonin-norepinephrine reuptake inhibitor, Trazodone, vilazodone, vortioxetine, Selective serotonin reuptake inhibitor.
+- We suggest against using: Esketamine, Ketamine, Monoamine oxidase inhibitors, Nefazodone, Tricyclic antidepressants.
+
+The exact mechanism of action of antidepressants is not well understood, but it is presumed to be mediated by changes in monoamine levels.","For uncomplicated major depressive disorder, treatment typically includes psychotherapy and/or pharmacotherapy. Commonly recommended treatments include:
+
+- **Psychotherapy**: Cognitive Behavioral Therapy (CBT) is often used as it has been shown to be effective in treating depression. Other forms of therapy may also be beneficial depending on the individual's needs and preferences.
+
+- **Pharmacotherapy**: Antidepressants such as Selective Serotonin Reuptake Inhibitors (SSRIs), Serotonin-Norepinephrine Reuptake Inhibitors (SNRIs), Tricyclic Antidepressants (TCAs), and others may be prescribed. The choice of medication depends on the individual's response and side effects.
+
+It's important to note that these recommendations are based on standard care guidelines and should be tailored to each patient by a qualified healthcare provider.",2,2,2,2,1,2,2,1,A,A полно перечисляет psychotherapy и pharmacotherapy для uncomplicated MDD и отделяет нежелательные варианты. B чрезмерно обобщает и включает TCAs как обычный вариант без нужной оговорки.
+mdd_04,guideline,What treatment options should be considered when depression is severe or has not responded adequately to initial treatment?,"For severe depression that hasn't responded to initial treatment, several treatment options can be considered. These include:
+
+1. **Electroconvulsive Therapy (ECT)**: This involves passing electrical currents through the brain to induce controlled seizures. It is often used for severe depression, especially when other treatments have failed.
+
+2. **Vagus Nerve Stimulation (VNS)**: This involves implanting a device that sends mild electrical impulses to the vagus nerve, which can help regulate mood.
+
+3. **Transcranial Magnetic Stimulation (TMS)**: This procedure uses magnetic fields to stimulate brain regions involved in mood regulation. It is typically done daily for several weeks.
+
+4. **Medication Adjustments**: Sometimes, adjusting the dosage or switching to a different antidepressant can be effective.
+
+5. **Combination Therapy**: Using two or more types of treatments simultaneously, such as combining antidepressants with ECT or VNS.
+
+It's important to discuss these options with a healthcare provider who can evaluate the individual's specific situation and needs.","When depression is severe or has not responded adequately to initial treatment, the following treatment options should be considered:
+
+- Combination of pharmacotherapy and evidence-based psychotherapy (e.g., CBT for depression or mindfulness-based cognitive therapy) (Source 1)
+
+- Switching to another antidepressant (including TCAs, MAOIs, or those in Recommendation 12) (Source 2)
+- Switching to psychotherapy (Source 2)
+- Augmenting with a psychotherapy (Source 2)
+- Augmenting with a second-generation antipsychotic (Source 2)
+
+In cases where depression is severe and has not responded to initial treatment, consider electroconvulsive therapy (ECT) for treatment in a life-threatening situation (Source 3).",1,2,2,2,2,2,2,2,B,"A перечисляет несколько advanced interventions без достаточной приоритизации и включает VNS слишком широко. B лучше отражает switching/augmentation, combined treatment и роль ECT при тяжёлой ситуации."
+mdd_05,guideline,What non-medication self-help or complementary approaches may be considered for major depression?,"Non-medication self-help or complementary approaches that may be considered for major depression include CBT-based bibliotherapy. and.
+
+Exercise, such as yoga, tai chi, qi gong, resistance training, and aerobics, may also be considered as an adjunct to pharmacotherapy or psychotherapy.
+
+It's important to note that the evidence for these approaches is mixed, with some showing benefits but others indicating no significant differences compared to usual care. and","Non-medication self-help and complementary approaches that may be considered for major depression include cognitive-behavioral therapy (CBT), mindfulness-based stress reduction, regular physical activity, adequate sleep, and a healthy diet. These strategies can complement professional treatment but should not replace it. It's important to consult with a healthcare provider before starting any new self-help program.",2,2,2,2,1,2,2,1,A,"A ближе к вопросу о self-help/complementary approaches: CBT-based bibliotherapy и exercise как adjunct. B добавляет общие lifestyle советы, часть которых не представляет специфическую guideline recommendation."
+pregnancy_01,guideline,What should be assessed and discussed during the initial prenatal visit?,"During the initial prenatal visit, the primary obstetric provider should assess the following:
+
+- Implement preventive strategies, including assessing the patient's risk for preterm birth and counseling women at high risk about prevention options.
+- Perform antenatal screening for pregnant patients between 36 0/7–37 6/7 weeks, except for those already identified as candidates for GBS prophylaxis.
+- Assess for obstetric risk factors early in the pregnancy, which can impact pregnancy outcomes.
+- Evaluate for preeclampsia, considering low-dose aspirin therapy for high-risk patients.
+- Screen for depression using validated tools like the EPDS and PHQ-9.
+- Assess for substance use, screening occurring at each prenatal and postpartum visit.
+
+The initial evaluation should include a complete metabolic panel and urine protein/creatinine ratio in patients at risk for underlying hepatic or renal disease.","During the initial prenatal visit, the following should be assessed and discussed:
+
+- Medical and obstetric history
+- Family medical history
+- Previous pregnancies
+- Current medications
+- Smoking and alcohol use
+- Nutrition and dietary habits
+- Exercise routine
+- History of sexually transmitted infections (STIs)
+- Any previous surgeries or hospitalizations
+- Social support system
+- Fetal growth and development
+- Maternal health status
+
+Discussing these topics helps ensure the mother and baby's well-being and sets a foundation for ongoing care.",1,1,2,1,2,2,2,1,B,"A смешивает initial visit с мероприятиями поздней беременности (например, GBS screening в 36–37 недель) и потому плохо соблюдает временной контекст. B лучше покрывает базовый history и risk review, хотя тоже неполон."
+pregnancy_02,guideline,What care and monitoring should be provided during follow-up prenatal visits?,"During follow-up prenatal visits, care and monitoring should include:
+
+- Reviewing the baby's growth and development through measurements and ultrasounds if applicable.
+- Monitoring the mother's blood pressure, weight, and urine for protein (proteinuria) as signs of preeclampsia.
+- Checking the mother's blood glucose levels if she has gestational diabetes.
+- Ensuring the mother is up-to-date with her tetanus toxoid vaccination.
+- Discussing any concerns or questions the mother may have regarding her pregnancy and baby's health.
+- Providing education on nutrition, exercise, and self-care practices.
+- Ensuring the mother is up-to-date with all recommended vaccinations, including the influenza vaccine.
+- Monitoring for signs of preterm labor and addressing any issues related to it.
+- Assessing the baby's well-being through fetal heart rate monitoring if indicated.
+- Ensuring the mother is aware of the signs and symptoms of complications and knows how to contact her healthcare provider promptly.","During follow-up prenatal visits, the obstetric provider should evaluate the following:
+
+- Blood pressure (Source 1)
+- Patient weight (Source 1)
+- Uterine size for progressive growth and consistency with gestational age (Source 1)
+- Presence of fetal heart activity at appropriate gestational ages (Source 1)
+
+The obstetric provider should also ask about fetal movement after the patient reports quickening and at each prenatal visit thereafter (Source 1). recommends routinely measuring weight for pregnant patients at every visit to monitor appropriate weight gain and allow the provider to offer interventions that can improve the short-term and long-term health of the patient and their neonate (Source 3).",1,2,2,2,2,2,2,2,B,"Оба ответа полезны, но B точнее выделяет routine follow-up parameters: BP, weight, uterine growth, fetal heart activity и fetal movement. A шире, но добавляет пункты, которые не обязательны на каждом визите."
+pregnancy_03,guideline,What care should be provided to a patient during the postpartum period?,"During the postpartum period, patients should be assessed no later than 7–10 days after delivery and no later than 12 weeks after birth. The care should include a comprehensive visit with an obstetric provider, which should cover an interval history and assessment of physical and social wellbeing, screening and assessment of mood and social wellbeing factors, infant care and feeding, sexual function, contraception, birth spacing, sleep and fatigue, physical recovery from birth, pelvic floor disorders, chronic disease management, and health maintenance.
+
+The timing of the comprehensive postpartum visit should be individualized and patient-centered, taking into account insurance coverage for postpartum care but usually occurring 6–12 weeks following birth.
+
+Contraceptive counseling should be initiated during prenatal care, and a plan should be made for postpartum contraception before delivery. Patients should be counseled on all available contraceptive options tailored to their preference and medical history, including immediate postpartum long-acting reversible contraceptives if desired.","During the postpartum period, the primary focus is on ensuring the mother's recovery and monitoring for any complications. This includes:
+
+- Monitoring for signs of infection, such as fever, excessive bleeding, or discharge.
+- Ensuring proper nutrition and hydration.
+- Providing guidance on self-care, including skin care, hygiene, and sleep.
+- Offering emotional support and addressing any concerns the mother may have.
+- Recommending regular check-ups to monitor her recovery and the baby’s development.
+
+If there are specific issues like excessive bleeding, severe pain, or signs of infection, further evaluation and treatment would be necessary.",1,2,2,2,2,2,2,1,A,"A значительно полнее охватывает postpartum domains и contraception, хотя срок 7–10 дней как универсальная точка контакта сформулирован слишком жёстко. B безопасен, но слишком общий и неполный."
+pregnancy_04,guideline,What education should patients receive as part of routine pregnancy care?,"Patients should be educated on various aspects of pregnancy care, including nutrition, exercise, prenatal vitamins, regular check-ups, signs of complications, and safe practices at home. They should also be informed about the importance of avoiding certain substances and activities that could harm the fetus. This education helps them prepare for and manage their pregnancy effectively.","As part of routine pregnancy care, patients should be educated on the potential benefits of group prenatal care, which allows them to choose how they engage in health care and might lead to increased patient satisfaction. They should also be educated on the importance of lactation education, which can be provided via in-person, telehealth, or multimedia modalities. This education should cover the initiation and continuation of lactation, including risks factors like obesity, depression, inappropriate gestational weight gain, and gestational diabetes mellitus. Additionally, patients should be educated on the safety and benefits of maintaining appropriate levels of activity and exercise during the pregnancy and postpartum period, and some may continue a standard work schedule.",2,2,2,2,2,2,2,1,A,"A шире покрывает routine education (nutrition, exercise, vitamins, warning signs, substance avoidance). B содержит полезные guideline-specific темы, но охватывает лишь часть необходимого обучения."
+pregnancy_05,guideline,When should a pregnant patient be referred to an advanced prenatal care provider?,"A pregnant patient should be referred to an advanced prenatal care provider if she has any of the following maternal indications listed in the guidelines:
+
+- Bariatric surgery within the past 18 months
+- Bowel resection or other significant abdominal-pelvic surgery
+- Cervical surgery (e.g., LEEP, cone biopsy)
+- Myomectomy or other significant uterine surgery (e.g., septum resection, cornual surgery)
+- Organ transplant
+- Prior cesarean section (e.g., low transverse, classical incisions) with increased risk for abnormal placentation/accreta
+- Increased risk for abnormal placentation/accreta due to previa with prior cesarean delivery
+- History of preeclampsia, eclampsia, GHTN, or HELLP
+- History of stroke, CVD (e.g., CHF, MI, arrhythmia, congenital heart disease), or hypertensive disorders (e.g., chronic hypertension)
+- Pregestational diabetes mellitus and GDM requiring medication or insulin management
+- Thyroid disease
+- Chronic hepatitis B or C
+- Crohn's or inflammatory bowel disease
+- Cancer, current or recurrent
+- Rheumatologic disease (e.g., Sjogren’s syndrome, APLAS, SLE, rheumatoid arthritis)
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- HIV
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening, high-risk HPV positive, or both
+- Abnormal cervical cancer screening","A pregnant patient should be referred to an advanced prenatal care provider if she has any of the following conditions or circumstances: high-risk pregnancy, gestational diabetes, hypertension, preeclampsia, preterm labor, or if her prenatal care has been inconsistent or incomplete. Additionally, if the patient requests it or if her primary care provider feels she needs more specialized care, referral may also be considered.",2,1,2,2,1,2,2,1,A,"A содержит широкий и правдоподобный перечень referral indications, но сильно испорчен повторением одной строки. B читаемее, однако слишком общий и неполный."
+sti_01,guideline,What treatment is recommended for chlamydial infection in adolescents and adults?,"The recommended treatment for chlamydial infection in adolescents and adults is:
+
+- Doxycycline 100 mg orally 2 times/day for 7 days
+- Azithromycin 1 g orally in a single dose or
+- Levofloxacin 500 mg orally once daily for 7 days
+
+Persons with chlamydia and HIV infection should receive the same treatment regimen as those who do not have HIV.
+
+A single dose of ceftriaxone 1 g IM in a single dose is recommended for gonococcal conjunctivitis among adolescents and adults, but it does not apply to chlamydial infection.","The recommended treatment for chlamydial infection in adolescents and adults is typically a single dose of口服抗生素, such as azithromycin 1 gram or doxycycline 100 mg. It's important to complete the full course of antibiotics as prescribed to ensure the infection is completely cleared. Follow-up testing may be needed after treatment to confirm the infection has been cured.",2,2,2,2,0,1,1,1,A,A корректно даёт doxycycline 100 mg twice daily 7 days и допустимые альтернативы. B ошибочно называет doxycycline вариантом single-dose therapy и содержит повреждённый текст.
+sti_02,guideline,How should a first clinical episode of genital herpes be treated?,"A first clinical episode of genital herpes should be managed as follows:
+
+- Antiviral medications such as acyclovir, valacyclovir, or famciclovir can be prescribed to reduce the severity and duration of symptoms and to decrease viral shedding, which may help in reducing the risk of transmission to others.
+
+- Pain relief may be recommended to manage discomfort.
+
+- It's important to inform sexual partners so they can be tested and treated if necessary, to prevent secondary infections.
+
+- Monitor for signs of complications like neonatal herpes in pregnant women, and for severe cases where hospitalization might be needed.
+
+- Follow-up care is important to monitor healing and to address any concerns.","For a first clinical episode of genital herpes, antiviral therapy should be administered. All patients with first episodes of genital herpes should receive antiviral therapy. Recommended regimens include:
+
+- Acyclovir 400 mg orally 3 times/day for 7–10 days
+- Famciclovir 250 mg orally 3 times/day for 7–10 days
+- Valacyclovir 1 g orally 2 times/day for 7–10 days
+
+The treatment can be extended if healing is incomplete after 10 days of therapy. Additionally, the clinician should choose the presumptive treatment based on clinical presentation and epidemiological circumstances.",2,2,2,1,2,2,2,2,B,"A верно рекомендует antiviral therapy, но не даёт конкретных схем. B приводит корректные дозировки и длительность acyclovir/famciclovir/valacyclovir и возможность продления курса."
+sti_03,guideline,How should cervicitis be evaluated to determine the likely infectious cause?,"Cervicitis can be evaluated to determine the likely infectious cause through a combination of clinical assessment and diagnostic testing. The following steps are typically taken:
+
+1. **Clinical Assessment**: This includes obtaining a detailed medical history, performing a pelvic examination, and assessing symptoms such as abnormal vaginal discharge, foul odor, or pain during intercourse.
+
+2. **Diagnostic Testing**:
+   - **Pap Test (Cytology)**: To check for cellular abnormalities.
+   - **Culture and Sensitivity Tests**: These can help identify the specific bacteria causing the infection, such as Gardnerella, Mycoplasma, or Chlamydia.
+   - **Nucleic Acid Amplification Tests (NAATs)**: Such as PCR, which can detect the presence of pathogens like Neisseria gonorrhoeae or Trichomonas vaginalis.
+   - **Urinalysis**: To rule out urinary tract infections.
+
+If the results of these tests are inconclusive or if there is no clear bacterial infection, further investigation may be needed, including endocervical cultures or more specialized tests depending on the clinical context.","To evaluate cervicitis, consider the following steps based on the available guidelines:
+
+1. **Assess for Signs of PID**: Women with cervicitis should be assessed for signs of PID and tested for C. trachomatis and N. gonorrhoeae with NAAT on vaginal, cervical, or urine samples.
+
+2. **Consider Other Infections**: Evaluate for concomitant BV and trichomoniasis. Symptomatic women with cervicitis and negative wet-mount microscopy for trichomonads should receive further testing (NAAT, culture, or other FDA-cleared diagnostic test).
+
+3. **Consider M. genitalium Testing**: Testing for M. genitalium with the FDA-cleared NAAT can be considered.
+
+4. **Evaluate for HSV-2**: Although HSV-2 infection has been associated with cervicitis, the utility of specific testing (PCR or culture) for HSV-2 is unknown.
+
+5. **Consider Additional Tests**: Testing for U. parvum, U. urealyticum, Mycoplasma hominis, or genital culture for group B streptococcus is not recommended.
+
+In summary, the evaluation should include NAAT for C. trachomatis and N. gonorrhoeae, and possibly additional tests for M. genitalium and HSV-2. Further testing may be needed if initial tests are negative but clinical suspicion remains.",0,2,1,1,2,2,2,2,B,"A предлагает несколько тестов, которые не являются стандартной основой оценки cervicitis (Pap, неспецифические cultures), и пропускает важные инфекции. B корректно фокусируется на NAAT для chlamydia/gonorrhea, BV/trichomoniasis и M. genitalium."
+sti_04,guideline,What tests are used to diagnose syphilis?,"To diagnose syphilis, the following tests are used:
+
+- Darkfield examinations and molecular tests for detecting T. pallidum directly from lesion exudate or tissue are the definitive methods for diagnosing early syphilis and congenital syphilis (Source 1).
+- Two laboratory serologic tests are required for a presumptive diagnosis: a nontreponemal test (such as VDRL or RPR) and a treponemal test (such as TP-PA assay, various EIAs, CIAs, and rapid treponemal assays) (Source 1).
+
+Alternative diagnostic methods include:
+- Biopsy of a lesion
+- Darkfield examination
+- PCR of lesion material
+
+When clinical findings suggest syphilis but serologic tests are nonreactive or unclear, these alternative tests may be useful (Source 3). Neurosyphilis, ocular syphilis, and otosyphilis should be considered in the differential diagnosis among persons with HIV infection (Source 3).","The primary tests used to diagnose syphilis include:
+
+1. **Rapid Plasma Reagin (RPR) Test**: This is an early screening test that can detect antibodies in the blood. It's often used as a preliminary screen but may not always confirm syphilis.
+
+2. **Treponema Pallidum Serology (TPHA/TPHA-TPHA Combo Test)**: This test detects antibodies produced by the syphilis bacteria. It is more specific and sensitive than RPR and is often used for confirmation if the initial RPR test is positive.
+
+If these tests are positive, further testing such as a **Darkfield Microscopy** or **Natürwurfschutztest (NAT)** might be done to confirm the diagnosis. NAT is particularly useful for confirming syphilis, especially in cases where the initial tests are inconclusive.",2,2,2,2,0,1,1,1,A,A правильно описывает сочетание nontreponemal и treponemal serology и direct detection methods. B содержит выдуманный/повреждённый тест и менее надёжную диагностическую схему.
+sti_05,guideline,What treatments are recommended for bacterial vaginosis?,"For bacterial vaginosis (BV), the primary treatment is typically a single dose of metronidazole or tinidazole. These medications can be taken orally. It's important to note that treatment should be done as soon as possible to prevent complications. Additionally, it's advised that sexual partners also receive treatment if they have symptoms to avoid reinfection.","For bacterial vaginosis, the following treatments are recommended:
+
+- Metronidazole 500 mg orally 2 times/day for 7 days
+- Metronidazole gel 0.75% one full applicator (5 g) intravaginally, once daily for 5 days
+- Clindamycin cream 2% one full applicator (5 g) intravaginally at bedtime for 7 days
+
+No data are available that directly compare the efficacy of oral and topical medications for treating BV.",0,2,0,1,2,2,2,2,B,A ошибочно представляет BV как single-dose metronidazole/tinidazole и предлагает лечение партнёров. B приводит стандартные рекомендованные oral и topical regimens.

@@ -1,0 +1,9 @@
+,value
+n_questions,8.0
+safe_abstention_count,5.0
+safe_abstention_rate,0.625
+failed_count,3.0
+failed_rate,0.375
+unsupported_claim_rate,0.375
+citation_misuse_rate,0.375
+mean_abstention_quality,1.25

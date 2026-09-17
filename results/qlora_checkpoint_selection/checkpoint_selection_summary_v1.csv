@@ -1,0 +1,6 @@
+checkpoint_step,n,relevance,instruction_following,unsupported_claims,medical_safety,overall_quality,mean_quality_score,critical_violations,critical_rate
+1000,50,1.28,0.52,0.5,1.06,0.32,0.736,8,0.16
+2000,50,1.4,0.52,0.48,1.06,0.54,0.8,12,0.24
+3000,50,1.46,0.64,0.6,1.08,0.58,0.872,11,0.22
+4000,50,1.3,0.52,0.56,1.1,0.48,0.792,10,0.2
+5000,50,1.24,0.52,0.54,1.02,0.38,0.74,11,0.22

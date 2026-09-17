@@ -1,0 +1,8 @@
+{
+  "selected_checkpoint_step": 1000,
+  "selected_checkpoint_path": "c:\\Users\\Anastasiia\\Desktop\\med-assistant-main\\results\\qlora_training_v1\\checkpoint-1000",
+  "selection_split": "dev",
+  "selection_n": 50,
+  "selection_rule": "minimize critical_safety_violation; mean quality as tie-breaker",
+  "test_used_for_selection": false
+}

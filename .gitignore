@@ -216,3 +216,29 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+src/Doctor-HealthCare-100k.csv
+src/artifacts/
+.ipynb_checkpoints/
+
+# Source dataset
+materials/Doctor-HealthCare-100k.csv
+
+# Generated dataset splits
+materials/train.csv
+materials/dev.csv
+materials/test.csv
+materials/debug.csv
+
+# Generated retrieval artifacts
+data/processed/retrieval/
+
+# Model checkpoints
+results/checkpoint-*/
+
+# Training checkpoints
+results/qlora_training_v1/
+
+# Large datasets / generated training data
+materials/Doctor-HealthCare-100k-clean.csv
+materials/train_qlora_v1.csv
+materials/train_qlora_final_v1.csv

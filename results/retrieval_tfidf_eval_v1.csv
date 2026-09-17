@@ -1,0 +1,48 @@
+eval_id,question_source,first_relevant_rank,hit_at_1,hit_at_3,hit_at_5,rr_at_10,top1_document_id,top1_section_path
+dev_0005,real_dev,,False,False,False,0.0,cdc_sti_2021,"Diseases Characterized by Vulvovaginal Itching, Burning, Irritation, Odor, or Discharge > Trichomoniasis > Recurrent Trichomoniasis"
+dev_0014,real_dev,2.0,False,True,True,0.5,va_dod_asthma_2025,IX. Recommendations > B. Treatment and Management
+dev_0029,real_dev,1.0,True,True,True,1.0,va_dod_ckd_2025,IX. Recommendations
+dev_0048,real_dev,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,IX. Recommendations > C. Non-pharmacologic and Non-invasive Therapy
+dev_0078,real_dev,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,VIII. Algorithm > A. Module A: Initial Evaluation of Low Back Pain
+dev_0097,real_dev,4.0,False,False,True,0.25,va_dod_asthma_2025,VIII. Algorithm
+dev_0135,real_dev,9.0,False,False,False,0.1111111111111111,va_dod_asthma_2025,VIII. Algorithm
+who_01,guideline,2.0,False,True,True,0.5,who_hypertension_2021,1 Introduction
+who_02,guideline,1.0,True,True,True,1.0,who_hypertension_2021,3 Recommendations > 3.2 Laboratory testing before and during pharmacological treatment
+who_03,guideline,3.0,False,True,True,0.3333333333333333,who_hypertension_2021,1 Introduction
+who_04,guideline,2.0,False,True,True,0.5,cdc_sti_2021,Syphilis > Treatment
+who_05,guideline,6.0,False,False,False,0.16666666666666666,who_hypertension_2021,1 Introduction
+t2d_01,guideline,,False,False,False,0.0,va_dod_type2_diabetes_2023,IX. Recommendations
+t2d_02,guideline,6.0,False,False,False,0.16666666666666666,va_dod_type2_diabetes_2023,IX. Recommendations
+t2d_03,guideline,10.0,False,False,False,0.1,va_dod_type2_diabetes_2023,I. Introduction ........................................................................................................... 5
+t2d_04,guideline,1.0,True,True,True,1.0,va_dod_type2_diabetes_2023,IX. Recommendations > A. Prediabetes
+t2d_05,guideline,2.0,False,True,True,0.5,va_dod_type2_diabetes_2023,IX. Recommendations
+ckd_01,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,VIII. Algorithm
+ckd_02,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,IX. Recommendations
+ckd_03,guideline,1.0,True,True,True,1.0,va_dod_ckd_2025,IX. Recommendations
+ckd_04,guideline,4.0,False,False,True,0.25,va_dod_ckd_2025,IX. Recommendations
+ckd_05,guideline,4.0,False,False,True,0.25,va_dod_ckd_2025,IX. Recommendations
+asthma_01,guideline,6.0,False,False,False,0.16666666666666666,va_dod_asthma_2025,VIII. Algorithm
+asthma_02,guideline,6.0,False,False,False,0.16666666666666666,va_dod_asthma_2025,VIII. Algorithm
+asthma_03,guideline,,False,False,False,0.0,va_dod_asthma_2025,VIII. Algorithm
+asthma_04,guideline,1.0,True,True,True,1.0,va_dod_asthma_2025,IX. Recommendations > B. Treatment and Management
+asthma_05,guideline,4.0,False,False,True,0.25,va_dod_asthma_2025,VIII. Algorithm
+lbp_01,guideline,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,VIII. Algorithm > A. Module A: Initial Evaluation of Low Back Pain
+lbp_02,guideline,7.0,False,False,False,0.14285714285714285,va_dod_low_back_pain_2022,VIII. Algorithm > A. Module A: Initial Evaluation of Low Back Pain
+lbp_03,guideline,4.0,False,False,True,0.25,va_dod_low_back_pain_2022,VIII. Algorithm > A. Module A: Initial Evaluation of Low Back Pain
+lbp_04,guideline,,False,False,False,0.0,va_dod_low_back_pain_2022,VIII. Algorithm > A. Module A: Initial Evaluation of Low Back Pain
+lbp_05,guideline,1.0,True,True,True,1.0,va_dod_low_back_pain_2022,IX. Recommendations > F. Non-surgical Invasive Therapy
+mdd_01,guideline,2.0,False,True,True,0.5,va_dod_major_depression_2022,II. Background > A. Description of Major Depressive Disorder (MDD)
+mdd_02,guideline,2.0,False,True,True,0.5,va_dod_major_depression_2022,III. Scope of this Guideline > B. Guideline Population
+mdd_03,guideline,,False,False,False,0.0,va_dod_major_depression_2022,II. Background > A. Description of Major Depressive Disorder (MDD)
+mdd_04,guideline,1.0,True,True,True,1.0,va_dod_major_depression_2022,VIII. Algorithm > B. Module B: Advanced Care Management
+mdd_05,guideline,1.0,True,True,True,1.0,va_dod_major_depression_2022,"IX. Recommendations > H. Self-help, Complementary, and Alternative Treatments"
+pregnancy_01,guideline,2.0,False,True,True,0.5,va_dod_pregnancy_2023,X. Routine Pregnancy Care .................................................................................... 78
+pregnancy_02,guideline,,False,False,False,0.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care .................................................................................... 78
+pregnancy_03,guideline,1.0,True,True,True,1.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care > C. Postpartum
+pregnancy_04,guideline,,False,False,False,0.0,va_dod_pregnancy_2023,X. Routine Pregnancy Care .................................................................................... 78
+pregnancy_05,guideline,2.0,False,True,True,0.5,va_dod_pregnancy_2023,X. Routine Pregnancy Care .................................................................................... 78
+sti_01,guideline,1.0,True,True,True,1.0,cdc_sti_2021,Chlamydial Infections > Chlamydial Infection Among Adolescents and Adults > Treatment
+sti_02,guideline,1.0,True,True,True,1.0,cdc_sti_2021,"Diseases Characterized by Genital, Anal, or Perianal Ulcers > Genital Herpes > Genital Herpes Management > First Clinical Episode of Genital Herpes"
+sti_03,guideline,3.0,False,True,True,0.3333333333333333,cdc_sti_2021,Diseases Characterized by Urethritis and Cervicitis > Cervicitis > Follow-Up
+sti_04,guideline,2.0,False,True,True,0.5,cdc_sti_2021,"Diseases Characterized by Genital, Anal, or Perianal Ulcers > Genital Herpes > Diagnostic Considerations > Virologic Tests"
+sti_05,guideline,2.0,False,True,True,0.5,cdc_sti_2021,"Diseases Characterized by Vulvovaginal Itching, Burning, Irritation, Odor, or Discharge > Bacterial Vaginosis > Other Management Considerations"
